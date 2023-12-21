@@ -11,8 +11,9 @@ image-alt: A cartoon stick figure pushes the bell logo up a steep incline.
 - Desk/home phones.
 - IP phones. Here are [some](http://www.voip-info.org/wiki/view/Asterisk+phones).
 - Unlocked Android phones.
-- Bulk RJ-11 cable or any standard phone cable.
+- Got any phones?
+- Bulk RJ-11, Cat 5, Cat 6, etc. cable.
 - Bulk power cable.
-- Concrete, conduit, and related installation hardware.
+- Concrete, conduit, rebar, other useful materials.
 
 If you would like to part with any of these items, please contact <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dial 0 from any Futel phone.
