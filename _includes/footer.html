@@ -1,0 +1,24 @@
+<footer class='site-footer'>
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12"> 
+          <p class='text-center'>
+            Contact us at operator@futel.net, or dial 0 from any Futel phone. <br>
+              IRC channel #futel on <a href="https://libera.chat/">liberachat</a>.
+             Site last updated {{ site.time | date: "%-m/%-d/%Y" }}.</small>
+          </p>
+          <nav class="footer-nav">
+            <p class="text-center">
+              {% for p in site.menu %}
+                {% if p.title %}
+                  <a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
+                  {{ loop.lst }}
+                  {% unless forloop.last %} &bullet; {% endunless %}
+                {% endif %}    
+              {% endfor %}         
+            </p>
+          </nav>
+        </div>
+      </div>
+    </div>
+</footer>
