@@ -34,17 +34,17 @@ Contact us at <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dia
 ### Labor
 
 - Director, Karl Anderson.
-- Software Engineering and Operations, Karl Anderson, Tishbite, breedx, Russell Senior.
+- Software Engineering and Operations, Karl Anderson, tishbite, breedx, Russell Senior.
 - Hygiene and Sanitation, M. Lippincott.
-- Operators, Karl Anderson, Tishbite, xnor, B. M, M. Lippincott, A. Frankenstein, M. Hansen, Anonymous, Anonymous, Anonymous.
-- Physical Plant, breedx, Tishbite, Ry4an B, M. Lippincott, Russell Senior, Sebastian Noack, J. Mejia.
-- Production, breedx, xnor, J. Mejia, B. Richardson.
+- Operators, Karl Anderson, tishbite, xnor, B. M, M. Lippincott, A. Frankenstein, M. Hansen, Anonymous, Anonymous, Anonymous.
+- Physical Plant, breedx, ishbite, Ry4an B, M. Lippincott, Russell Senior, Sebastian Noack, J. Mejía.
+- Production, breedx, xnor, J. Mejía, B. Richardson.
 - Design, D. Wager, M. Lippincott.
 - Art, D. Wager, B. Thunderblood, Fiona Bearclaw, Lance E. Pants.
 
 ### Contributors
 
-Thanks to our public telephone hosts **G. Upshaw**, **xnor**, **Anonymous**, **Sou'Wester Lodge**, **Landline Creative**, **Saluthaus**, **Sebastian Noack**, **J. Mejia**, **Tishbite**, **Anonymous**, **Microcosm Publishing**, **M. Hansen**, and **Ghost Mountain**. Thanks to our other telephone hosts **Right To Dream Too**, **Upright Brewing**, **Bottles and Cans**.
+Thanks to our public telephone hosts **G. Upshaw**, **xnor**, **Anonymous**, **Sou'Wester Lodge**, **Landline Creative**, **Saluthaus**, **Sebastian Noack**, **J. Mejía**, **tishbite**, **Anonymous**, **Microcosm Publishing**, **M. Hansen**, and **Ghost Mountain**. Thanks to our other telephone hosts **Right To Dream Too**, **Upright Brewing**, **Bottles and Cans**.
 
 Futel's 2020-2023 operations are funded in part by the **[Regional Arts and Culture Council](http://racc.org/)**.
 
