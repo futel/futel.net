@@ -46,6 +46,8 @@ Contact us at <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dia
 
 Thanks to our public telephone hosts **G. Upshaw**, **xnor**, **Anonymous**, **Sou'Wester Lodge**, **Landline Creative**, **Saluthaus**, **Sebastian Noack**, **J. Mejía**, **tishbite**, **Anonymous**, **Microcosm Publishing**, **M. Hansen**, and **Ghost Mountain**. Thanks to our other telephone hosts **Right To Dream Too**, **Upright Brewing**, **Bottles and Cans**.
 
+Thanks to **Anonymous** and **Anonymous** for voice prompts.
+
 Futel's 2020-2023 operations are funded in part by the **[Regional Arts and Culture Council](http://racc.org/)**.
 
 Futel's 2018-2022 operations are funded in part by **Nelson**.
