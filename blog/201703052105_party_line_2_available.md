@@ -1,6 +1,6 @@
 ---
 layout: blog
-permalink: /blog/201703052105_party_line_#2_available
+permalink: /blog/201703052105_party_line_2_available
 ---
 
 # Party Line #2 available
