@@ -2,6 +2,8 @@
 import os
 import re
 
+# util to convert the old _archive from tumblr into markdown
+
 def write_md_header(src, file):
   file.write('---\n')
   file.write('layout: blog\n')
@@ -35,6 +37,11 @@ def convert_paragraphs(content):
   content = re.sub(r'</p>', '\n\n', content)
   return re.sub(r'<p>', '', content)
 
+def swizzle_images(lines):
+  def mangle(line):
+    return re.sub(r'img src="\.\./\.\./media', 'img src="/blog/images', line)
+  return [mangle(line) for line in lines]
+
 def convert(src):
   with open(f'_archive/html/{src}', "rt") as file:
     lines = file.readlines()
@@ -44,6 +51,7 @@ def convert(src):
     lines = get_body_content(lines)
     lines = [x.strip() for x in lines]
     lines = convert_header(lines)
+    lines = swizzle_images(lines)
     content = '\n'.join(lines)
     content = re.sub(r'^\n+', '\n', content)
     content = re.sub(r'\n\n+', '\n\n', content)
