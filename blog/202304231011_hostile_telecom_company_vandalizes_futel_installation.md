@@ -1,10 +1,10 @@
 ---
 layout: blog
-permalink: /blog/202304231011_<div_class="caption">hostile_telecom_company_vandalizes_futel_installation
+permalink: /blog/202304231011_hostile_telecom_company_vandalizes_futel_installation
 ---
 
 <img src="/blog/images/715411858432180224.jpg"/>
-<div class="caption"># HOSTILE TELECOM COMPANY VANDALIZES FUTEL INSTALLATION
+# HOSTILE TELECOM COMPANY VANDALIZES FUTEL INSTALLATION
 
 <h2>HIRED GOONS LEAVE LIBELOUS SCRAWL IN PATHETIC ATTEMPT TO DISRUPT SERVICE</h2>
 
