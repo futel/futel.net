@@ -1,0 +1,36 @@
+---
+layout: blog
+permalink: /blog/202003201440_druid_of_sisyphus_gardens_call_log
+---
+
+# Druid of Sisyphus Gardens Call Log
+
+<h2>Highlights Since Recorded Times<br/></h2><b>2018-11-25</b><br/>Caller asked if this was the escort service of Pasadena, CA. “No, sorry”. Caller hung up before I could provide them with any more information.
+
+<b>2018-12-21</b><br/>Caller asked what else they could do on a Futel. I provided them with some information. “Chill.”
+
+<b>2019-4-23</b><br/>Caller asked if I was the Druid of Sisyphus. “No. No, wait, yes. Are you looking for a specific Druid?” “Yes”, they said. I answered their questions.
+
+<b>2019 spring</b><br/>Caller apologized when I let them know they can call anyone else for free. I didn’t mean it that way.
+
+<b>2019 summer</b><br/>Callers were a couple walking in their new neighborhood. They were excited about Futel, and I explained some of Futel’s telephony services. I told them I was a Druid-in-training. “So you work for the telephone company?” “No.”
+
+<b>2019 fall</b><br/>Caller explained they found a payphone, so they tried calling their cellphone. I told them that they hadn’t miscalled, and told them how to call their cellphone from the payphone. They thanked me, and told me that I sound like a really kind person, and that they hoped it wasn’t too late where ever I was. I thanked them and told them to have a good night. Caller hung up, then I realized I neglected to tell them that dialing a Druid was a good way to test the interactive-ness of a phone booth at midnight.
+
+<b>2020 January</b><br/>Caller asked what plants I grow. I provided them with information. Caller repeated information, then hung up.
+
+<h2>Druid of Sisyphus Gardens Documented Voicemail</h2><b>unknown date</b><br/>Um, hiii. Is this the burrito place? I really wanted a burrito today. Sooo, if you’re not the burrito place, just don’t call back. But if you are the burrito place, I would love some burritos.<br/>Yeah, yeah, yeah burritos! Buh-buh-buh burritos! Yeah, yeah, yeah, burritos!<br/>Have a spectacular day!
+
+<b>2019 (children, abbreviated)</b><br/>“I’m Banana 1, and my friend is Banana 2. Can you call back right away so we can talk about bananas? Here is is Banana 2!”<br/>“My name is Banana 2 but I like playing Banana 1”
+
+<b>2019 Fall</b><br/>“Do you have any rocks? Like really big rocks? I’m the man to push them.”
+
+<b>2019-8-28</b><br/>Voice 1: “Hi, I hope you have a good day!”<br/>Voice 2: “Tell us the secret of Stonehenge, did aliens land there? Did aliens build it? Are you an alien?<br/>Voice 1: “I would also like to know that, but first and foremost, I hope you have a really good day!”<br/>Voice 2: “What if I’m an alien?”<br/>Voice 1: “I think you might be.”<br/>Voice 3: “I hope your day is like really good, but like not so good that you can’t match it later in life.”<br/>Voice 1: “Truer words have never been spoken. Thank you!”
+
+<b>Thank You FUTEL, Pest and Verm, the Druids of Sisyphus</b><br/>
+
+
+
+<div id="footer">
+<span id="timestamp"> March 20th, 2020 2:40pm </span>
+</div>
