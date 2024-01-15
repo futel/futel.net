@@ -34,7 +34,7 @@ Contact us at <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dia
 ### Labor
 
 - Director, Karl Anderson.
-- Software Engineering and Operations, Karl Anderson, tishbite, breedx, Russell Senior.
+- Engineering and Operations, Karl Anderson, tishbite, breedx, Russell Senior.
 - Hygiene and Sanitation, M. Lippincott.
 - Operators, Karl Anderson, tishbite, xnor, M. Lippincott, A. Frankenstein, Anonymous, M. Hansen, Anonymous, Anonymous.
 - Physical Plant, Karl Anderson, breedx, tishbite, Ry4an B, M. Lippincott, Russell Senior, Sebastian Noack, J. Mejía.
