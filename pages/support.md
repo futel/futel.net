@@ -23,11 +23,11 @@ Support us by subscribing on [Patreon](http://patreon.com/futel).
 
 Support us by buying [T-shirts or buttons](https://shop.spreadshirt.com/futel/).
 
-Support us by buying Party Line issues [1](https://microcosmpublishing.com/catalog/zines/8068), [2](https://microcosmpublishing.com/catalog/zines/8067), [3](https://microcosmpublishing.com/catalog/zines/9975), [4](https://microcosmpublishing.com/catalog/zines/10920), [5](https://microcosmpublishing.com/catalog/zines/13070), [6](https://microcosmpublishing.com/catalog/zines/28431), [7](https://microcosmpublishing.com/catalog/zines/2861), and [8](https://microcosmpublishing.com/catalog/zines/4561).
+Support us by buying Party Line issues [1](https://microcosmpublishing.com/catalog/zines/8068), [2](https://microcosmpublishing.com/catalog/zines/8067), [3](https://microcosmpublishing.com/catalog/zines/9975), [4](https://microcosmpublishing.com/catalog/zines/10920), [5](https://microcosmpublishing.com/catalog/zines/13070), [6](https://microcosmpublishing.com/catalog/zines/28431), [7](https://microcosmpublishing.com/catalog/zines/2861), and [8](https://microcosmpublishing.com/catalog/zines/4561) from Microcosm Publishing.
 
 Have any of these [items](/wishlist)?
 
-Potential installation host? Contact us. Want to hack on Futel? See our [repositories](https://github.com/futel). Creator of interactive audio art? We can help you implement your ideas in this exciting new format.
+Installation host? Contact us. Hacker? See [repositories](https://github.com/futel). Artist? We can help you implement your ideas in this exciting new format.
 
 Contact us at <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dial 0 from any Futel phone.
 
