@@ -5,10 +5,10 @@ from datetime import datetime
 
 # util to convert the old _archive from tumblr into markdown
 
-def write_md_header(datestr, file):
+def write_md_header(filename, file):
   file.write('---\n')
   file.write('layout: blog\n')
-  file.write(f"permalink: /blog/{datestr}\n")
+  file.write(f"permalink: /blog/{filename}\n")
   file.write('---\n')
 
 def get_body_content(lines):
@@ -26,13 +26,19 @@ def get_body_content(lines):
   return out
         
 
+def parse_title(lines):
+  head_lines = list(filter(lambda x: '<h1>' in x, lines))
+  if len(head_lines):
+    line = head_lines[0]
+    if line == '<h1></h1>':
+      return ''
+    return re.sub(r'<h1>(.*)</h1>', r'\1', head_lines[0])
+  return '' # no headings
+
 def convert_header(lines):
   def mangle(line):
     return re.sub(r'<h1>(.*)</h1>', r'# \1\n', line)
   return filter(lambda x: x != '# \n', map(mangle, lines))
-
-def parse_date(lines):
-  pass
 
 def convert_paragraphs(content):
   content = re.sub(r'</p>', '\n\n', content)
@@ -40,7 +46,7 @@ def convert_paragraphs(content):
 
 def swizzle_images(lines):
   def mangle(line):
-    return re.sub(r'img src="\.\./\.\./media', 'img src="/blog/images', line)
+    return re.sub(r'img (alt="image" )?src="\.\./\.\./media', 'img src="/blog/images', line)
   return [mangle(line) for line in lines]
 
 def find_date(lines):
@@ -57,6 +63,7 @@ def convert(src):
   lines = get_body_content(lines)
   date = find_date(lines)
   lines = [x.strip() for x in lines]
+  title = parse_title(lines)
   lines = convert_header(lines)
   lines = swizzle_images(lines)
   content = '\n'.join(lines)
@@ -64,11 +71,19 @@ def convert(src):
   content = re.sub(r'\n\n+', '\n\n', content)
   content = convert_paragraphs(content)
   datestr = f"{datetime.strftime(date, '%Y%m%d%H%M')}"
+  perma_filename = datestr
   print(f'  {datestr}.md')
   outfile = f'blog/{datestr}.md'
-  print(outfile)
+  if len(title):
+    print(f'  title: {title}')
+    title = re.sub(r'[ :?]', '_', title).lower()
+    title = re.sub(r'_+', '_', title)
+    perma_filename = f'{datestr}_{title}'
+    outfile = f'blog/{perma_filename}.md'
+
+  print(f'  -> {outfile}')
   with open(outfile, "wt") as out:
-    write_md_header(datestr, out)
+    write_md_header(perma_filename, out)
     out.write(content)
     out.write('\n')
     
