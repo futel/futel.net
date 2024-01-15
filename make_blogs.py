@@ -76,7 +76,7 @@ def convert(src):
   outfile = f'blog/{datestr}.md'
   if len(title):
     print(f'  title: {title}')
-    title = re.sub(r'[ :?]', '_', title).lower()
+    title = re.sub(r"[ :?!|']", '_', title).lower()
     title = re.sub(r'_+', '_', title)
     perma_filename = f'{datestr}_{title}'
     outfile = f'blog/{perma_filename}.md'
