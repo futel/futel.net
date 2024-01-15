@@ -29,7 +29,7 @@ Have any of these [items](/wishlist)?
 
 Installation host? Contact us. Hacker? See [repositories](https://github.com/futel). Artist? We can help you implement your ideas in this exciting new format.
 
-Contact us at <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dial 0 from any Futel phone.
+Email <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dial 0 from any Futel phone.
 
 ### Labor
 
