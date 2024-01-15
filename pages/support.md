@@ -56,6 +56,6 @@ Futel's 2022 operations are funded in part by the **Social Justice Action Center
 
 Thanks to our funding contributors including Precipice Fund, Calligram Foundation, and The Andy Warhol Foundation for the Visual Arts, [Awesome Ann Arbor](http://a2awesome.org/), [Awesome Portland](http://awesomeportland.org/), the Twilio.org Impact Corps Program, and [ToorCamp](http://toorcamp.toorcon.net/).
 
-Thanks to the [Personal Telco Project](https://personaltelco.net), [Free Geek Portland](http://www.freegeek.org/), Hankins Hardware, and B. Davis for donating materials.
+Thanks to the [Personal Telco Project](https://personaltelco.net), Hankins Hardware, [Free Geek Portland](http://www.freegeek.org/), and B. Davis for donating materials.
 
 Thanks to [PDX Hackerspace](http://pdxhackerspace.org/), Jessamyn West, Dug Song, [Snaptortoise](https://snaptortoise.com), Sharita Towne, [Open Signal](https://www.opensignalpdx.org/), Drew at MOHDI, and [B-Line Urban Delivery](http://b-linepdx.com/) for their support. Thanks to everyone who has donated time, money, and expertise.
