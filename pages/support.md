@@ -40,7 +40,7 @@ Contact us at <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dia
 - Physical Plant, Karl Anderson, breedx, tishbite, Ry4an B, M. Lippincott, Russell Senior, Sebastian Noack, J. Mejía.
 - Production, breedx, xnor, J. Mejía, B. Richardson.
 - Design, D. Wager, M. Lippincott.
-- Art, D. Wager, B. Thunderblood, Fiona Bearclaw, Lance E. Pants.
+- Art, D. Wager, B. Thunderblood, Fiona Barnacle, Lance E. Pants.
 
 ### Contributors
 
