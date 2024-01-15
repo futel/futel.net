@@ -1,13 +1,14 @@
 
 import os
 import re
+from datetime import datetime
 
 # util to convert the old _archive from tumblr into markdown
 
-def write_md_header(src, file):
+def write_md_header(datestr, file):
   file.write('---\n')
   file.write('layout: blog\n')
-  file.write(f"permalink: /blog/{src.replace('.html', '')}\n")
+  file.write(f"permalink: /blog/{datestr}\n")
   file.write('---\n')
 
 def get_body_content(lines):
@@ -42,20 +43,32 @@ def swizzle_images(lines):
     return re.sub(r'img src="\.\./\.\./media', 'img src="/blog/images', line)
   return [mangle(line) for line in lines]
 
+def find_date(lines):
+  # <span id="timestamp"> December 11th, 2023 10:31pm </span>
+  dateline = list(filter(lambda x: '<span id="timestamp"' in x, lines))[0]
+  raw = re.sub(r'.*>(.*)</span>', r'\1', dateline).strip()
+  raw = re.sub(r'(st|nd|th|rd), ', ', ', raw)
+  print(f'  {raw}')
+  return datetime.strptime(raw, '%B %d, %Y %I:%M%p')
+
 def convert(src):
   with open(f'_archive/html/{src}', "rt") as file:
     lines = file.readlines()
-  outfile = f"blog/{src.replace('html', 'md')}"
+  lines = get_body_content(lines)
+  date = find_date(lines)
+  lines = [x.strip() for x in lines]
+  lines = convert_header(lines)
+  lines = swizzle_images(lines)
+  content = '\n'.join(lines)
+  content = re.sub(r'^\n+', '\n', content)
+  content = re.sub(r'\n\n+', '\n\n', content)
+  content = convert_paragraphs(content)
+  datestr = f"{datetime.strftime(date, '%Y%m%d%H%M')}"
+  print(f'  {datestr}.md')
+  outfile = f'blog/{datestr}.md'
+  print(outfile)
   with open(outfile, "wt") as out:
-    write_md_header(src, out)
-    lines = get_body_content(lines)
-    lines = [x.strip() for x in lines]
-    lines = convert_header(lines)
-    lines = swizzle_images(lines)
-    content = '\n'.join(lines)
-    content = re.sub(r'^\n+', '\n', content)
-    content = re.sub(r'\n\n+', '\n\n', content)
-    content = convert_paragraphs(content)
+    write_md_header(datestr, out)
     out.write(content)
     out.write('\n')
     
