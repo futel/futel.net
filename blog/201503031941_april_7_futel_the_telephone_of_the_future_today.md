@@ -1,6 +1,6 @@
 ---
 layout: blog
-permalink: /blog/201503031941_april_7_ futel_the_telephone_of_the_future,_today
+permalink: /blog/201503031941_april_7_futel_the_telephone_of_the_future_today
 ---
 
 # April 7: FUTEL: THE TELEPHONE OF THE FUTURE, TODAY
