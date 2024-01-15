@@ -32,12 +32,12 @@ def parse_title(lines):
     line = head_lines[0]
     if line == '<h1></h1>':
       return ''
-    return re.sub(r'<h1>(.*)</h1>', r'\1', head_lines[0])
+    return re.sub(r'.*<h1>(.*)</h1>', r'\1', head_lines[0])
   return '' # no headings
 
 def convert_header(lines):
   def mangle(line):
-    return re.sub(r'<h1>(.*)</h1>', r'# \1\n', line)
+    return re.sub(r'.*<h1>(.*)</h1>', r'# \1\n', line)
   return filter(lambda x: x != '# \n', map(mangle, lines))
 
 def convert_paragraphs(content):
