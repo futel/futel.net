@@ -1,0 +1,47 @@
+---
+layout: post
+permalink: /_posts/202101232155_2020_operator_log_excerpts
+---
+
+# 2020 Operator Log Excerpts
+
+Eleven operators logged over 42 operator calls in 2020, providing information, assisting users, and sharing conversations, many quite boring but also many not boring at all. Here is a sample of logged calls, with some sensitive and many less interesting examples removed.
+
+
+
+<ul>
+<li>2020-01-07 Caller asked, &ldquo;which operator is this?&rdquo; I replied that it didn&rsquo;t matter and disconnected.</li>
+<li>2020-01-21 Caller asked if I could place a call and gave me a number, I told them how to get a dialtone. Caller asked a long confusing question, something about whether this was a government benefit and which organizations were involved. I told them I didn&rsquo;t understand the question but I hoped they benefited from it. Caller talked about what they were doing, again something confusing about telecommunication abilities or maybe telepathy, I told them I was glad to hear it and said goodbye.</li>
+<li>2020-01-31 Caller asked for the number of a retirement community.</li>
+<li>2020-02-04 Talked with caller, who appreciated the chair. Isn&rsquo;t it cold there right now? You f-in know it&rsquo;s cold.</li>
+<li>2020-02-05 Caller asked for a residential number. I advised that I was just googling and probably couldn&rsquo;t help. Caller provide a name and street in Albuquerque. I was able to recite three numbers off one of those stupid name lookup sites and advised caller about their source. Caller repeated numbers to verify, I corrected two mistakes, caller apologized and said they were writing them down in the rain in Portland.</li>
+<li>2020-03-25 Dude called to report “hello operator? I’m calling to let you know that the phone on the corner of Killingsworth and (??) has been wiped down and sanitized with bleach” I told him thank you and to stay safe out there.</li>
+<li>2020-03-30 Caller requested the number for Henry Ford Hospital, which I provided.</li>
+<li>2020-04-09 Caller asked how to celebrate their best friend&rsquo;s birthday, I told them to give them a hug.</li>
+<li>2020-05-26 Caller wanted to know how to make a call. Operator explained dialing 1. Caller blessed operator and everyone involved in providing this heavenly service.</li>
+<li>2020-05-31 Caller wanted to place a call, I told them how to.</li>
+<li>2020-06-01 Caller asked for information on manufacturing PCP. I found instructions on Google, but was unable to summarize them over the phone. Caller nevertheless appreciates the service.</li>
+<li>2020-06-18 Caller was confused about what they they should say after I answered their hello, I hung up.</li>
+<li>2020-06-23 Caller wanted the number for OHSU, asked if I could forward them because they didn&rsquo;t have a pen. I could not but repeated the number with them.</li>
+<li>2020-06-26 Caller wanted to know “what the fuck is a Futel?” Caller was trying to make a collect call. I suggested they try a free call instead. Caller hung up.</li>
+<li>2020-07-01 Caller asked what time it was, I told them. I forgot to tell them that there was a utility menu entry for that.</li>
+<li>2020-07-01 Caller asked me to call 911, I told them to hang up and call 911.</li>
+<li>2020-07-04 Caller and friend asked why I/Futel exist. Attempted to explain. Caller hung up mid-attempt.</li>
+<li>2020-07-13 Caller asked for the number of a Happy Valley hospital, which I provided.</li>
+<li>2020-07-20 Caller wants to make a call, Asks if the phone is working. Explained dialing 1. Caller hung up mid-explanation.</li>
+<li>2020-07-21 Caller reported static on the Clinton St. phone.  Then she/they/it asked all sorts of weird, intriguing questions re: the meaning of September 5th 2020, the Willamette Valley Dream Survey, the manifesto printed on the Futel payphones, etc.  We had a long-ranging and interesting discussion about the nature of reality and the meaning of the various texts on the Futel telephone.</li>
+<li>2020-07-25 Caller asked how to report a dream, I told them to use the directory. Caller asked what happens to the dream recordings, I replied that it was an external number and I didn&rsquo;t know. Caller started telling me an obviously fake dream, I suggested that they report it and hung up.</li>
+<li>2020-08-07 What is this, is the dream survey available here, what other interesting choices are there, blah blah blah, just try it already.</li>
+<li>2020-08-23 Caller wanted the number to report their dreams. I told her the WVDS is in the menu system, tho i could not recall where. I offered to record the callers dream in the Futel log instead. Caller dreamed they had just killed two people — they didn&rsquo;t recall who — and was running from the law. They found their child, confessed the crime, and they absconded together. I wished them a better dream tonight.</li>
+<li>2020-09-06 Caller asked how to call the Druid, I told them to use the directory.</li>
+<li>2020-09-09 Caller&rsquo;s grandparents are visiting in the house upstairs.  Caller also has a spider living in their window.  Caller attempted to conference in the spider, but could not operate the speakerphone. Caller explained that spiders have their own telephones built into their webs. Discussed literature, comic books, etc.  Then caller had to go.</li>
+<li>2020-10-07 Caller asked for the police non-emergency number, which I provided.</li>
+<li>2020-10-12 Heard a series of tones, after I announced myself sounded like the caller was using the phone keypad.  Tried announcing myself again but when the tones stopped there was what sounded like hold music.  Girl from Ipanema.  Ended the call.</li>
+<li>2020-10-22 Caller asked the Operator if they could help them reach a named individual.  Operator asked for more information about them.  Caller told her Nevermind, and ended the call.</li>
+<li>2020-11-22 Caller needed to get in touch with a friend or family member but had no phone numbers. i searched for a few names for them and expect they will call back for some additional number hunting.</li>
+<li>2020-12-08 Caller wanted the number of a motel in SW Portland, which I provided.</li>
+</ul>
+
+<div id="footer">
+<span id="timestamp"> January 23rd, 2021 9:55pm </span>
+</div>

@@ -1,0 +1,119 @@
+---
+layout: post
+permalink: /_posts/201702051505_excerpts_from_the_2016_operator_log
+---
+
+# Excerpts from the 2016 Operator Log
+
+Futel operators fielded over 50 operator calls in 2016. These ran the gamut from boring to exciting and amusing to annoying. Here is a sample of logged calls, with some sensitive and many less interesting examples removed.
+
+
+
+<ul>
+<li><strong>2016-01-06</strong> Caller asked for the address of Transition Projects, including zip code, which I provided.
+
+</li>
+<li><strong>2016-01-16</strong> Answered call only to hear someone pounding keys repeatedly.
+
+</li>
+<li><strong>2016-01-16</strong> Caller needed help making an outbound call.
+
+</li>
+<li><strong>2016-01-16</strong> Another key pounder.
+
+</li>
+<li><strong>2016-01-17</strong> Caller asked for the incoming number of the Clinton Street phone, which I provided. Advised caller that the ringer was out of order.
+
+</li>
+<li><strong>2016-02-24</strong> Caller wanted to know what would happen. I told them that they now did.
+
+</li>
+<li><strong>2016-02-28</strong> Caller was trying to make a call. I encouraged them to keep trying.
+
+</li>
+<li><strong>2016-03-15</strong> Answered call and heard some random yelling. As soon as I said &ldquo;Hello, Operator&rdquo; they hung up.
+
+</li>
+<li><strong>2016-04-03</strong> Person wanted to know how to call 911, I told them to dial 1 then 911, they thanked me then hung up.
+
+</li>
+<li><strong>2016-04-04</strong> Caller asked what phone does. Advised that can be used for making free domestic calls. Caller asked how to pay for call, multiple times. Eventually realized was actually free and advised to try making call from main menu again. Caller replied &ldquo;That is awesome. Thank you.&rdquo;
+
+</li>
+<li><strong>2016-04-19</strong> Answered call and got Ipanema. After a few seconds a person flashed onto the line and said &ldquo;Hello?&rdquo;, I responded &ldquo;Futel, can I help you?&rdquo; and they hung up.
+
+</li>
+<li><strong>2016-04-21</strong> Caller needed 911. Was unable to make call. I took down info and called emergency in for them.
+
+</li>
+<li><strong>2016-04-21</strong> Caller needed the number for DHS on Lombard. Commented that they appreciate Futel more than we can know.
+
+</li>
+<li><strong>2016-05-03</strong> Caller asked if this was a real phone, I confirmed and asked if caller needed an operator. Caller said they thought it was an art installation. I asked if I could help caller, they replied no, I hung up.
+
+</li>
+<li><strong>2016-05-05</strong> Answered call only to hear Ipanema. After about 30 seconds the line went silent and I hung up.
+
+</li>
+<li><strong>2016-05-10</strong> Caller needed number for Oregon EBT balance check.
+
+</li>
+<li><strong>2016-06-02</strong> Caller needed number for Transition Projects.
+
+</li>
+<li><strong>2016-06-05</strong> Caller wanted number for OHSU emergency room, I gave them the number for the OHSU hospital and OHSU emergency care.
+
+</li>
+<li><strong>2016-06-16</strong> Caller wanted me to make a phone call, I told them how to do so.
+
+</li>
+<li><strong>2016-06-22</strong> Caller wanted the number for pretrial release at the justice center. Gave them the number for Multnomah County Pretrial.
+
+</li>
+<li><strong>2016-07-01</strong> Static and a distorted voice.
+
+</li>
+<li><strong>2016-07-13</strong> Caller wanted number for Multnomah County Public Defender. Provided.
+
+</li>
+<li><strong>2016-07-29</strong> Amused neighborhood children who were playing with the phone.
+
+</li>
+<li><strong>2016-08-04</strong> Caller requested to be transferred to Providence Medical. I explained that I could look up the number but not transfer. Caller was distressed because they did not have a pen but was elated to find one in the phone booth and wrote down the number.
+
+</li>
+<li><strong>2016-08-08</strong> Caller wanted number for a cab company, I provided the Radio Cab number.
+
+</li>
+<li><strong>2016-08-18</strong> Caller sought to make a phone call.  I explained that I could not make a phone call, but that they could hang up and dial the number.  Caller repeated their question, I repeated my answer, and they hung up.
+
+</li>
+<li><strong>2016-09-15</strong> Caller wanted a number for a lawyer in Baltimore. Looked it up and gave it to them.
+
+</li>
+<li><strong>2016-10-27</strong> Caller wanted a number for a Seattle consulting firm. Looked it up and gave it to them.
+
+</li>
+<li><strong>2016-10-29</strong> Caller encouraged a child to talk into the telephone. Child laughed and said nothing and pressed buttons.
+
+</li>
+<li><strong>2016-11-14</strong> Caller wanted the number to the North Portland child welfare office. Give it to them.
+
+</li>
+<li><strong>2016-11-29</strong> Caller wondered if we provided directory assistance, I replied that we did. Caller added that they didn&rsquo;t know if it cost money, I replied that it did not. After a short silence and some smalltalk, caller said that they were looking for a Portland number, and began spelling out a name, but could not agree with another person on how it was spelled. Caller said never mind, I hung up.
+
+</li>
+<li><strong>2016-12-13</strong> &ldquo;Operator.&rdquo; &ldquo;Can you connect me to one&hellip; eight&hellip; eight&hellip; eight&hellip; &hellip; &hellip; &hellip; &hellip; &hellip; &hellip; &hellip;&rdquo; &ldquo;No, but you can call that number yourself after hanging up and selecting &lsquo;one&rsquo; for a dial tone.&rdquo; &ldquo;Well, but I have to dial a one and then an eight eight eight, is that going to work?&rdquo; &ldquo;I don&rsquo;t know. I can&rsquo;t predict the future.&rdquo; &ldquo;&hellip;&rdquo; &ldquo;Why not try it and call back if&hellip;&rdquo; &ldquo;Wait, wait, okay, okay. Okay. I know you don&rsquo;t have a crystal ball, I mean, who does?&rdquo; &ldquo;Who does.&rdquo; &ldquo;Have a good one.&rdquo; &ldquo;Good luck.&rdquo;
+
+</li>
+<li><strong>2016-12-22</strong> Caller wanted the number for Corbett Farms, which I supplied.
+
+</li>
+<li><strong>2016-12-30</strong> Caller inquired about my location, I replied that I was an operator. Caller asked if they should return to their job next week, I replied no and hung up.
+
+</li>
+</ul>
+
+<div id="footer">
+<span id="timestamp"> February 5th, 2017 3:05pm </span>
+</div>

@@ -7,8 +7,8 @@ from datetime import datetime
 
 def write_md_header(filename, file):
   file.write('---\n')
-  file.write('layout: blog\n')
-  file.write(f"permalink: /blog/{filename}\n")
+  file.write('layout: post\n')
+  file.write(f"permalink: /posts/{filename}\n")
   file.write('---\n')
 
 def get_body_content(lines):
@@ -46,7 +46,7 @@ def convert_paragraphs(content):
 
 def swizzle_images(lines):
   def mangle(line):
-    return re.sub(r'img (alt="image" )?src="\.\./\.\./media', 'img src="/blog/images', line)
+    return re.sub(r'img (alt="image" )?src="\.\./\.\./media', 'img src="/posts/images', line)
   return [mangle(line) for line in lines]
 
 def find_date(lines):
@@ -73,13 +73,13 @@ def convert(src):
   datestr = f"{datetime.strftime(date, '%Y%m%d%H%M')}"
   perma_filename = datestr
   print(f'  {datestr}.md')
-  outfile = f'blog/{datestr}.md'
+  outfile = f'posts/{datestr}.md'
   if len(title):
     print(f'  title: {title}')
     title = re.sub(r"[ :?!|']", '_', title).lower()
     title = re.sub(r'_+', '_', title)
     perma_filename = f'{datestr}_{title}'
-    outfile = f'blog/{perma_filename}.md'
+    outfile = f'posts/{perma_filename}.md'
 
   print(f'  -> {outfile}')
   with open(outfile, "wt") as out:
