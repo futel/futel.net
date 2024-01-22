@@ -1,0 +1,13 @@
+---
+layout: post
+title: no title
+date: '2018-03-09T15:08:51-08:00'
+tags: []
+tumblr_url: https://futelco.tumblr.com/post/171705826319/the-typical-first-world-urban-surface-dweller
+---
+The typical first world urban surface dweller interacts with several computers a day, and one could be forgiven for categorizing these into two types: those belonging to their users, and those belonging to someone else. This is, however, a foolish distinction. Any networked device is a tool designed to fulfill the objectives of its user only so far as they fulfill the objectives of those who own the network. And any manufactured object, whether considered public or private, is built upon a vast industrial foundation. We see only the part that’s pointed at us, not the layers upon layers beneath, but they are there, and they are largely made out of people.
+
+The most common computing device used by the modern eloi is, of course, the pocket telephone. What do you see when you observe the river of people interacting with their supposedly personal phones? Whose desires are being pursued?
+
+At Futel, we believe we have found a way for those layers of technology and the people who service them to work for us. If we can help you find the answers to this important question, we invite you to consider the interests of our network to be aligned with your own. By our works shall you know us.
+
