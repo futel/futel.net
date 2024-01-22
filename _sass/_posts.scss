@@ -7,13 +7,16 @@
 .post {
   max-width: 500px;
   margin-bottom: 4em;
+  margin-top: 2em;  
 
   li + li {
     margin-top: .25rem;
   }
 
   img {
-    max-width: 100%;      
+    max-width: 100%;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
   }
 }
 
