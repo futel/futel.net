@@ -4,6 +4,7 @@
 // there are no more previous or next posts to show.
 
 .pagination {
+  max-width: 500px;    
   display: flex;
   margin: 0 -1.5rem var(--spacer);
   color: var(--gray-500);
@@ -23,10 +24,10 @@
   }
 }
 
-// Only provide a hover state for linked pagination items
-a.pagination-item:hover {
-  background-color: var(--border-color);
-}
+// // Only provide a hover state for linked pagination items
+// a.pagination-item:hover {
+//   background-color: var(--border-color);
+// }
 
 @media (min-width: 30em) {
   .pagination {
