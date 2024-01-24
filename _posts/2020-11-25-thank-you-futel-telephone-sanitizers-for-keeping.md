@@ -1,6 +1,6 @@
 ---
 layout: post
-title: thank you futel telephone sanitizers for keeping
+title: Thank You Futel Telephone Sanitizers
 date: '2020-11-25T21:45:29-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/635824535298555904/thank-you-futel-telephone-sanitizers-for-keeping

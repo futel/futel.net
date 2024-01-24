@@ -1,6 +1,6 @@
 ---
 layout: post
-title: futel wireless installation for events and other
+title: Wireless Installation
 date: '2022-12-02T13:43:29-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/702564175412609024/futel-wireless-installation-for-events-and-other

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ann Arbor Awesome Foundation funds free public phone in Ypsilanti
+title: Ann Arbor Awesome Foundation Grant
 date: '2017-06-06T22:16:34-07:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/161534249634/ann-arbor-awesome-foundation-funds-free-public

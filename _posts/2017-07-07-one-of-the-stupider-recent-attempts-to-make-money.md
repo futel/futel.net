@@ -1,6 +1,6 @@
 ---
 layout: post
-title: one of the stupider recent attempts to make money
+title: ""
 date: '2017-07-07T22:15:23-07:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/162734504769/one-of-the-stupider-recent-attempts-to-make-money

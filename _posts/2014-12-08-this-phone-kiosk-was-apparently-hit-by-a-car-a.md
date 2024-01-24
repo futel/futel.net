@@ -1,6 +1,6 @@
 ---
 layout: post
-title: this phone kiosk was apparently hit by a car a
+title: Death Of The Payphone
 date: '2014-12-08T23:36:13-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/104744616954/this-phone-kiosk-was-apparently-hit-by-a-car-a

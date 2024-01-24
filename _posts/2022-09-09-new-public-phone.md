@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New public phone!
+title: New Public Phone!
 date: '2022-09-09T12:10:43-07:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/694944418785116160/new-public-phone

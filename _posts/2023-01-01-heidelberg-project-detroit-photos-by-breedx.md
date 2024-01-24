@@ -1,6 +1,6 @@
 ---
 layout: post
-title: heidelberg project detroit photos by breedx
+title: Heidelberg Project
 date: '2023-01-01T18:39:30-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/705300708250058752/heidelberg-project-detroit-photos-by-breedx

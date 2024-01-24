@@ -1,6 +1,6 @@
 ---
 layout: post
-title: first public futel phone in detroit 23rd just s
+title: First Public Futel Phone In Detroit!
 date: '2019-11-14T09:40:01-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/189063119759/first-public-futel-phone-in-detroit-23rd-just-s

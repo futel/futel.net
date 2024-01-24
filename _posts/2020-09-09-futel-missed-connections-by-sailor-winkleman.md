@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Futel Missed Connections by Sailor Winkleman
+title: Futel Missed Connections By Sailor Winkleman
 date: '2020-09-09T21:23:33-07:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/628843414970056705/futel-missed-connections-by-sailor-winkleman

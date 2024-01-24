@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: Longmont Potion Castle
 date: '2018-08-29T12:21:24-07:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/177525999154/for-immediate-release-exclusive-longmont-potion

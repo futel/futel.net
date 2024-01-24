@@ -1,6 +1,6 @@
 ---
 layout: post
-title: new hand washing station n central st between
+title: New Hand Washing Station
 date: '2020-05-21T14:23:12-07:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/618760705094598656/new-hand-washing-station-n-central-st-between

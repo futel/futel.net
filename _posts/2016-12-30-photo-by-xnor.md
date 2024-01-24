@@ -1,6 +1,6 @@
 ---
 layout: post
-title: photo by xnor
+title: ""
 date: '2016-12-30T23:47:46-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/155199431769/photo-by-xnor

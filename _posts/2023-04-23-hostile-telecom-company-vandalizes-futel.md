@@ -1,6 +1,6 @@
 ---
 layout: post
-title: hostile telecom company vandalizes futel
+title: Hostile Telecom Company Vandalizes Futel
 date: '2023-04-23T10:11:55-07:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/715411858432180224/hostile-telecom-company-vandalizes-futel

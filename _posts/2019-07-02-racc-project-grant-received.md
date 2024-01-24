@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RACC Project Grant received
+title: RACC Project Grant
 date: '2019-07-02T22:00:07-07:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/186017973979/racc-project-grant-received

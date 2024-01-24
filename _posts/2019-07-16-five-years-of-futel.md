@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Five years of Futel
+title: Five Years Of Futel
 date: '2019-07-16T10:42:46-07:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/186332402134/five-years-of-futel

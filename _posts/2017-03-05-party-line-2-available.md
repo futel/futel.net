@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Party Line #2 available'
+title: 'Party Line #2'
 date: '2017-03-05T21:05:13-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/158055283444/party-line-2-available

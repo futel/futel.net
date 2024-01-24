@@ -1,6 +1,6 @@
 ---
 layout: post
-title: the sanitation program eventually took its toll on
+title: Damage Report
 date: '2022-12-13T20:50:35-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/703587613193469952/the-sanitation-program-eventually-took-its-toll-on

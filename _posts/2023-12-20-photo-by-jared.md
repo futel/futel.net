@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: ""
 date: '2023-12-20T17:14:18-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/737276076353536000/photo-by-jared

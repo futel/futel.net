@@ -1,6 +1,6 @@
 ---
 layout: post
-title: new public phone at paz on se woodward
+title: New Public Phone!
 date: '2018-11-28T22:23:57-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/180611402359/new-public-phone-at-paz-on-se-woodward

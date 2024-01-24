@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New feature: Call a concentration camp in the United States'
+title: New Feature
 date: '2019-07-04T13:09:25-07:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/186055191689/new-feature-call-a-concentration-camp-in-the

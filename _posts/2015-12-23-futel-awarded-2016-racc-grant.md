@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Futel awarded 2016 RACC Grant
+title: RACC Grant
 date: '2015-12-23T14:53:46-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/135805475394/futel-awarded-2016-racc-grant

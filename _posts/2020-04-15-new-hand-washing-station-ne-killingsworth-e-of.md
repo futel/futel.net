@@ -1,6 +1,6 @@
 ---
 layout: post
-title: new hand washing station ne killingsworth e of
+title: New Hand Washing Station
 date: '2020-04-15T20:13:39-07:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/615521263156363264/new-hand-washing-station-ne-killingsworth-e-of

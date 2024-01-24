@@ -1,6 +1,6 @@
 ---
 layout: post
-title: we had some phones at toorcamp again this year
+title: ToorCamp
 date: '2016-06-17T22:21:05-07:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/146095054914/we-had-some-phones-at-toorcamp-again-this-year

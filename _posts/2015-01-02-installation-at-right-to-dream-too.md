@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Installation at Right To Dream Too
+title: New Phone
 date: '2015-01-02T16:06:00-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/106950791844/installation-at-right-to-dream-too

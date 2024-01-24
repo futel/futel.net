@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: New Phone
 date: '2023-12-03T15:13:55-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/735728354141061120/new-phone-at-bottles-and-cans-ne-greeley-s-of

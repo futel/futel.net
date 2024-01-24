@@ -1,6 +1,6 @@
 ---
 layout: post
-title: new public phone at ghost mountain se 40th and
+title: New Public Phone!
 date: '2023-05-21T11:46:47-07:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/717954542749286401/new-public-phone-at-ghost-mountain-se-40th-and

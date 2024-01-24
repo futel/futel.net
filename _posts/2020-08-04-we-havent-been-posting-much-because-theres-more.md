@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: ""
 date: '2020-08-04T15:25:02-07:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/625559368348450816/we-havent-been-posting-much-because-theres-more

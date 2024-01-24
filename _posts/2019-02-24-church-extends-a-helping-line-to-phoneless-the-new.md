@@ -1,6 +1,6 @@
 ---
 layout: post
-title: church extends a helping line to phoneless the new
+title: '"Church Extends a Helping Line to Phoneless"'
 date: '2019-02-24T23:15:01-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/183043471744/church-extends-a-helping-line-to-phoneless-the-new

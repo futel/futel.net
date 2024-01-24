@@ -1,12 +1,10 @@
 ---
 layout: post
-title: no title
+title: Damage Report
 date: '2024-01-01T22:05:09-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/738381539331702784/damage-report
 ---
-# Damage Report
-
 ![](https://64.media.tumblr.com/8475eec37a385fd7053cfd66d61c057e/69845f913a2709a9-2d/s640x960/31958d02e8cde2e663d8c6d0ffc8c7c6e2a7d0c9.jpg)
 
 The eternal battle to maintain our little corners of homeostasis continues.

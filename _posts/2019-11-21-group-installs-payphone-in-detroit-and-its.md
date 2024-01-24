@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Group installs payphone in Detroit -- and it’s free to use
+title: '"Group installs payphone in Detroit -- and it’s free to use"'
 date: '2019-11-21T20:13:04-08:00'
 tags:
 - uniquely detroit

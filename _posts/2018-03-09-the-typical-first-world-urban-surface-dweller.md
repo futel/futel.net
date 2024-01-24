@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: ""
 date: '2018-03-09T15:08:51-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/171705826319/the-typical-first-world-urban-surface-dweller

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: BSidesPDX Presentation
 date: '2023-10-01T21:23:02-07:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/730040193062748160/karl-anderson-will-present-how-and-why-to-gain

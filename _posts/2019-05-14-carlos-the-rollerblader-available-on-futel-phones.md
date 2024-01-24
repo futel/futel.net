@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Carlos The Rollerblader available on  Futel phones
+title: Carlos The Rollerblader
 date: '2019-05-14T22:27:45-07:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/184888608549/carlos-the-rollerblader-available-on-futel-phones

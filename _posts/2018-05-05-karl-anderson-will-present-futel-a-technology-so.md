@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: Teardown Presentation
 date: '2018-05-05T22:27:15-07:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/173628473439/karl-anderson-will-present-futel-a-technology-so

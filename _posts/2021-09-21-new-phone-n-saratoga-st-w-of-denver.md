@@ -1,6 +1,6 @@
 ---
 layout: post
-title: new phone n saratoga st w of denver
+title: New Public Phone!
 date: '2021-09-21T22:10:53-07:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/663001448417755136/new-phone-n-saratoga-st-w-of-denver

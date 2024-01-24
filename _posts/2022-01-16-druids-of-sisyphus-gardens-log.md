@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Druids of Sisyphus Gardens Log
+title: Druids Of Sisyphus Gardens Log
 date: '2022-01-16T17:55:47-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/673589019040415744/druids-of-sisyphus-gardens-log

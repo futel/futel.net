@@ -1,6 +1,6 @@
 ---
 layout: post
-title: new hand washing station deployed se clinton st
+title: New Hand Washing Station
 date: '2020-04-14T21:36:02-07:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/615435849143894016/new-hand-washing-station-deployed-se-clinton-st

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: we got some nice ceeco vandal resistant phones
+title: ""
 date: '2016-03-08T21:28:38-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/140728737859/we-got-some-nice-ceeco-vandal-resistant-phones

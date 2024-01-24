@@ -1,6 +1,6 @@
 ---
 layout: post
-title: new futel phone at landline creative labs on pearl
+title: New Public Phone!
 date: '2018-03-14T10:09:35-07:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/171868656669/new-futel-phone-at-landline-creative-labs-on-pearl

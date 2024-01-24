@@ -1,6 +1,6 @@
 ---
 layout: post
-title: first futel public hand washing station deployed
+title: Hand Washing Station
 date: '2020-04-08T20:25:04-07:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/614887802154385408/first-futel-public-hand-washing-station-deployed

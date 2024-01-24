@@ -1,6 +1,6 @@
 ---
 layout: post
-title: new public phone at ctrl h n interstate ave at
+title: New Public Phone!
 date: '2016-02-27T19:03:44-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/140123644519/new-public-phone-at-ctrl-h-n-interstate-ave-at

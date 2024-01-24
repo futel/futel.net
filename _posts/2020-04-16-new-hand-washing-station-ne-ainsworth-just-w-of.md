@@ -1,6 +1,6 @@
 ---
 layout: post
-title: new hand washing station ne ainsworth just w of
+title: New Hand Washing Station
 date: '2020-04-16T23:04:27-07:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/615622605407404032/new-hand-washing-station-ne-ainsworth-just-w-of

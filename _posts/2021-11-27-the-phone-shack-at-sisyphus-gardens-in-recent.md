@@ -1,6 +1,6 @@
 ---
 layout: post
-title: the phone shack at sisyphus gardens in recent
+title: Sisyphus Gardens
 date: '2021-11-27T21:35:18-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/669072981325217792/the-phone-shack-at-sisyphus-gardens-in-recent

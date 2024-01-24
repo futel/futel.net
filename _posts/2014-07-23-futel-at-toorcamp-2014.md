@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Futel at ToorCamp 2014
+title: ToorCamp
 date: '2014-07-23T18:18:00-07:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/92683993594/futel-at-toorcamp-2014

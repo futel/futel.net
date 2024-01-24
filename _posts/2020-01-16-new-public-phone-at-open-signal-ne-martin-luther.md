@@ -1,6 +1,6 @@
 ---
 layout: post
-title: new public phone at open signal ne martin luther
+title: New Public Phone!
 date: '2020-01-16T20:35:40-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/190301981914/new-public-phone-at-open-signal-ne-martin-luther

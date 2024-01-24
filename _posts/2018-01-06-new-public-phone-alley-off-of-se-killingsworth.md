@@ -1,6 +1,6 @@
 ---
 layout: post
-title: new public phone alley off of se killingsworth
+title: New Public Phone!
 date: '2018-01-06T21:34:08-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/169412201984/new-public-phone-alley-off-of-se-killingsworth

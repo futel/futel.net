@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: Decon + Reuse Presentation
 date: '2017-09-06T22:14:22-07:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/165070731524/karl-anderson-will-present-king-solomons-mines

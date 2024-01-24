@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: ""
 date: '2020-02-22T15:07:40-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/190971506584/one-of-the-motivations-behind-futel-is-to-produce

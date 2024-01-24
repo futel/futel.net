@@ -1,6 +1,6 @@
 ---
 layout: post
-title: new public phone coming soon
+title: ""
 date: '2016-01-04T22:00:20-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/136660915634/new-public-phone-coming-soon

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: ""
 date: '2015-12-17T20:15:11-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/135423173789/we-knew-this-day-would-come-when-we-installed

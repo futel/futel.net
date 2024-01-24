@@ -1,6 +1,6 @@
 ---
 layout: post
-title: new public phone se cesar chavez blvd at steele
+title: New Public Phone!
 date: '2022-01-31T12:42:40-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/674928274404769792/new-public-phone-se-cesar-chavez-blvd-at-steele

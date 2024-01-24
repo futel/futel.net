@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: ""
 date: '2017-01-30T04:54:52-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/156579245024/what-will-futels-role-be-in-the-coming-end-times

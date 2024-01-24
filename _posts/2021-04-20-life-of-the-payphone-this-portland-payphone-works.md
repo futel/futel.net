@@ -1,6 +1,6 @@
 ---
 layout: post
-title: life of the payphone this portland payphone works
+title: Life Of The Payphone
 date: '2021-04-20T12:38:33-07:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/649013507627597824/life-of-the-payphone-this-portland-payphone-works

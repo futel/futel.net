@@ -1,6 +1,6 @@
 ---
 layout: post
-title: new hand washing station n side of e burnside
+title: New Hand Washing Station
 date: '2020-06-09T17:23:51-07:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/620493413107859456/new-hand-washing-station-n-side-of-e-burnside

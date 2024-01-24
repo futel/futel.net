@@ -1,6 +1,6 @@
 ---
 layout: post
-title: new phone its bar phone but its all ages so
+title: New Phone
 date: '2019-11-25T16:16:50-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/189299966694/new-phone-its-bar-phone-but-its-all-ages-so

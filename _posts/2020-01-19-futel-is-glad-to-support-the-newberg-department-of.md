@@ -1,6 +1,6 @@
 ---
 layout: post
-title: futel is glad to support the newberg department of
+title: Newberg Department Of Friendship Project
 date: '2020-01-19T20:29:40-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/190357404949/futel-is-glad-to-support-the-newberg-department-of
