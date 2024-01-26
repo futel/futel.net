@@ -13,6 +13,7 @@
 
 // Pagination items can be `span`s or `a`s
 .pagination-item {
+  width: 50%;    
   display: block;
   padding: var(--spacer);
   text-decoration: none;
@@ -23,6 +24,14 @@
     margin-bottom: -1px;
   }
 }
+
+// .older {
+//   float: left
+// }
+
+// .newer {
+//   float: right
+// }
 
 // // Only provide a hover state for linked pagination items
 // a.pagination-item:hover {
@@ -36,7 +45,7 @@
 
   .pagination-item {
     float: left;
-    width: 50%;
+    //width: 50%;
     border-width: 1px;
 
     &:first-child {
