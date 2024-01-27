@@ -15,7 +15,8 @@
           <div role='main' class="site-content post col-xs-12 col-md-10">
             <h2>{{ page.title }}</h2>
             <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
-              {{ content }}  
+            {{ content }}
+            <a class="pagination-item newer" href="/blog/archive">Archive</a>            
           </div>
           
         </div>
