@@ -10,5 +10,6 @@ paginate_path: "/blog/page:num/"
 markdown: kramdown
 
 plugins:
+  - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
