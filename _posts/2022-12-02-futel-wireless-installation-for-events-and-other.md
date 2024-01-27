@@ -12,5 +12,5 @@ tumblr_url: https://futelco.tumblr.com/post/702564175412609024/futel-wireless-in
 
 Futel wireless installation for events and other temporary sites. Could your organization use an interactive audio kiosk with telecommunication services?
 
-Does not require site power or connectivity. Developed with the help of a 2022 RACC Make|Learn|Build grant.
+Does not require site power or connectivity. Developed with the help of a 2022 RACC Make\|Learn\|Build grant.
 

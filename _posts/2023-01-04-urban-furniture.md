@@ -29,7 +29,7 @@ As pedestrians, we are the subjects of urban furniture, it is our behavior being
 
 **Pretend Benches**
 
-![](https://64.media.tumblr.com/92735f35e02c80cde49b419633df70eb/e77890b1f1ea2fa3-f1/s540x810/e49a2316c8e57198414bc561cada69c4a86bcea1.jpg)
+![](/images/blog/e49a2316c8e57198414bc561cada69c4a86bcea1.jpg)
 
 At the first look, this might be described as an actual piece of furniture. It presents as a bus stop bench, designed to allow the human body to rest while waiting for a bus.
 
@@ -47,7 +47,7 @@ This is the core of psychogeographic inquiry. What does the built environment re
 
 **Bollards**
 
-![](https://64.media.tumblr.com/3367a80b66b9309cde305ec015715ff0/e77890b1f1ea2fa3-72/s540x810/e4362f1d0d2a8c4ae6d3a608a203b0da705a8b2c.jpg)
+![](/images/blog/e4362f1d0d2a8c4ae6d3a608a203b0da705a8b2c.jpg)
 
 _image distributed by IRSystems under the Creative Commons Attribution-ShareAlike 3.0 Unported License._
 
@@ -57,27 +57,27 @@ Look at any ATM or gas meter on a sidewalk vulnerable to ramming by a runaway or
 
 **Poles And Hitches**
 
-![](https://64.media.tumblr.com/2eab51f9a32ddb498dc409e22ce3927d/e77890b1f1ea2fa3-2f/s540x810/9b60e6389cc6b97f68f48a6901fa108489953dab.jpg)
+![](/images/blog/9b60e6389cc6b97f68f48a6901fa108489953dab.jpg)
 
 Poles are everywhere and are perhaps the simplest form of urban furniture, a stick to elevate something else. The way that they are used is what makes them interesting. They are appropriated as hitches, signposts, and a substrate for artwork. Explicit hitches are also used in this way. It makes a routine event fun. Locking a bike gives us a moment to see who has been there, and provides a visual sniff test of the neighborhood.
 
-![](https://64.media.tumblr.com/f13940327884e63c824fb968d060cb2f/e77890b1f1ea2fa3-09/s540x810/7b22f803b06e19b3167714529bdf2c301a24c760.jpg)
+![](/images/blog/7b22f803b06e19b3167714529bdf2c301a24c760.jpg)
 
 An important purpose of these objects is also protection from automobiles, a kind of single-use bollard. Because this is not their intended purpose - they are too expensive for that, their main reason for being goes away after they absorb an impact, and the humans they protect are not valuable - they often remain for a while after an impact until workers can be tasked to replace them. This allows them to fulfill another unintended purpose, a signal about the environment. You could be next!
 
 **Newspaper Boxes**
 
-![](https://64.media.tumblr.com/808ff3f6e0de96da2911fdfc546d6511/e77890b1f1ea2fa3-11/s540x810/807527de3a597b7b0db7f0aca1e3cb2f1cef98a1.jpg)
+![](/images/blog/807527de3a597b7b0db7f0aca1e3cb2f1cef98a1.jpg)
 
 Newspaper boxes come in two varieties, coin-operated and free. Along with the intended purpose of distributing newspapers and pamphlets, they also create little coves of higher entropy where eddies of activity will deposit items. Shopping carts and items of landfill capitalism such as rental scooters can often be found in these zones, and of course smashed off pieces of cars.
 
-![](https://64.media.tumblr.com/d59af68f8949dc86b6dbbbd7d5923488/e77890b1f1ea2fa3-cd/s540x810/d7efae303da273de82e876a807759e3f8df25f7d.jpg)
+![](/images/blog/d7efae303da273de82e876a807759e3f8df25f7d.jpg)
 
 Their lifecycle also often involves them being abandoned in place after they are no longer being filled, where they will remain as they are slowly bludgeoned into crumpled masses. All of these factors make them interesting zones of urban anthropology, where the detritus of a neighborhood can be examined. However, they also illustrate the sad human custom of stuffing trash in any space that will hold it. And any protected space may become a site for a tent or a makeshift shelter.
 
 **Writing Surfaces**
 
-![](https://64.media.tumblr.com/6bdb51cb5474f0d279869c2c1acc9996/e77890b1f1ea2fa3-3a/s540x810/f677d7032f7cf424d77e24ad1190967f5e2ca186.jpg)
+![](/images/blog/f677d7032f7cf424d77e24ad1190967f5e2ca186.jpg)
 
 Urban furniture doesn’t need to be intentionally placed as furniture. “The street finds its own uses for things”. Any flat surface can become a place for notes to be written: graffiti, messages to specific people, or just as a kind of talking to oneself. It is interesting to see what the neighborhood is thinking about.
 
@@ -91,7 +91,7 @@ We should, of course, gladly adapt our actions and values to accommodate those e
 
 Many items of urban furniture can be repurposed. Often, the systems which were allowed to originally place it will revert it back, but some subtle alterations go unnoticed for long periods, and even obvious ones will sometimes reveal that nobody who is supposed to be responsible is paying attention. Newspaper boxes are good targets because, as noted, they are just left lying around without much organization.
 
-![](https://64.media.tumblr.com/88f0d338906cc28a67131905c169e1c2/e77890b1f1ea2fa3-34/s540x810/4658fb3dce321130093d3e7878d76c85530b9b22.jpg)
+![](/images/blog/4658fb3dce321130093d3e7878d76c85530b9b22.jpg)
 
 _This box was turned into an art installation years or decades ago. It was moved into an out of the way side street, and it’s just a remnant now, the rotating art show hasn’t been updated for ages. Nobody is paid to care enough to remove it._
 
@@ -107,7 +107,7 @@ It’s always so nice to see that somebody has made the environment better for e
 
 The landscape of urban furniture can be made into a playground without anything other than the participation of one or more people, just by finding challenges. Physical contests can be invented on the fly anywhere, as anyone who is or was a child knows. Games can be created by adding rules or goals. Urban furniture can be used in unexpected ways, to see how creatively they can fulfill their original or new purposes, or just to see what assumptions can be broken without greatly changing the overall interactions. Routes can be followed to remain within or without the sight lines of types of installations. Stories can be built and expanded based on the engagements of unwitting passersby. By adding communication, other participants can be included without ever meeting. Chalk, stickers, or simply the placement and collection of objects can be used to communicate. Mazes can be drawn, puzzles eked out, and interactive guides can be grown.
 
-![](https://64.media.tumblr.com/d48d11ce497532e3d0177876d33dbd0c/e77890b1f1ea2fa3-b7/s540x810/dd54fec94b29eb5def97430030923dcf81ae31a6.jpg)
+![](/images/blog/dd54fec94b29eb5def97430030923dcf81ae31a6.jpg)
 
 _Any surface can be made into a challenge just by finding something difficult to do with it. The payphone near my house used to accumulate those stupid free commercial flyer boxes that littered the city. Walking home late one night, I thought they would look better if stacked. The newspaper box was empty and plastic, and all of its mass was in the weighted base. It turned out to be surprisingly hard to place it upright on top of the booth! It was taller than I could reach, so I had to toss it up there. It was easy to get the base to land, but if the pillar wasn’t vertical, it would swing forward and back and fly off again. It became a fun test that amused me for a long time. Eventually, I gave up and began to walk away, only to hear a yell from an unidentified apartment nearby. “Don’t give up! You can do it!” I waved in the direction of the voice and resolved to try again sometime, but a couple of days later, I found the box on top of the booth. My encouragers had succeeded where I had failed! Incidentally, this payphone was a COCOT, and the phone line was routed through the lamp enclosure, which can be accessed without breaking in or using specialized tools. Someone spliced a jack in there, so calls could be made for free by bringing a desk phone._
 
@@ -123,4 +123,4 @@ Futel’s angle, of course, is to replicate and tweak structures that still have
 
 We are used to writing about this over and over again to drum up funding or outreach. It was more fun when we weren’t as obvious about it, just putting down phones without any explanation, giving people something to discover and letting them wonder how many there were. The mere existence of our devices in a public setting is enough reason for us to place them, and luckily, we have found that they are still approached with curiosity. Do people doubt their memories when they see a new payphone? Do they invent strange backstories and weird organizations? Many do. More importantly, because our telephones cause some people to view their built environment with a critical eye, or make up stories and myths, or think about how they might participate, we know the project is extremely successful. We have a role in shaping not only the urban environment, but perceptions of the forms of the city and the forces behind them. And all we had to do was run a phone company for nine years.
 
-![](https://64.media.tumblr.com/ec8a13549725644403c03aa0c777725f/e77890b1f1ea2fa3-a7/s540x810/5f009841aca4858efbedbce453d6d05bb3df402f.jpg)
+![](/images/blog/5f009841aca4858efbedbce453d6d05bb3df402f.jpg)

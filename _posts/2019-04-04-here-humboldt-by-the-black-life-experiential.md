@@ -9,4 +9,4 @@ April 4 – 25, 2019, see HERE \|\| Humboldt by the Black Life Experiential Rese
 
 [https://www.pcc.edu/galleries/2019/03/22/here-humboldt-by-the-black-life-experiential-research-group/](https://www.pcc.edu/galleries/2019/03/22/here-humboldt-by-the-black-life-experiential-research-group/)
 
-![](https://64.media.tumblr.com/e7420a396cafeacf60d01926de257086/tumblr_inline_pph3cyF2YV1sk9ezf_540.jpg)
+![](/images/blog/tumblr_inline_pph3cyF2YV1sk9ezf_540.jpg)

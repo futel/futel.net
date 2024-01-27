@@ -13,7 +13,7 @@ Our solution was to implement telephone sanitation and hygiene programs. These w
 
 The telephone sanitation program consists of a cadre of telephone sanitation engineers trained and equipped to regularly sanitize the telephones. The purpose of the program is primarily to improve the health and safety of telephone users, and secondarily to assure users that the telephones are safe to use.
 
-![](https://64.media.tumblr.com/a4f58d06542319c55aa38b5b09a7de69/03ef353b38b9a810-f1/s540x810/7bd4b98d56e7b24fe172503c78d33af67882889e.jpg)
+![](/images/blog/7bd4b98d56e7b24fe172503c78d33af67882889e.jpg)
 
 At first it was difficult to find supplies and equipment. Disinfectant and PPE were sold out everywhere. We were able to buy sufficient amounts of bleach and sponges, and small quantities of rubber gloves, nalgene gloves, and spray bottles. Now that the west coast has settled into our new reality, we are able to keep our supplies stocked.
 
@@ -29,9 +29,9 @@ We have achieved and continue to achieve the safety improvement objectives. Keep
 
 The hygiene program deploys handwashing stations to every telephone location where we are able to do so. The purpose of the program is to improve the health and safety of Futel users or any other individuals who wish to use the stations.
 
-![](https://64.media.tumblr.com/c0ce9217a0126e89b65689535b93ff61/03ef353b38b9a810-67/s540x810/5426e8f61bee33ff14c08ef29090f61db02865b9.jpg)
+![](/images/blog/5426e8f61bee33ff14c08ef29090f61db02865b9.jpg)
 
-![](https://64.media.tumblr.com/67c325bd1952b82de8959a020032ed4e/03ef353b38b9a810-ec/s540x810/b0f5c988dc54e42da8bbf763de6e6dd164a64bc0.jpg)
+![](/images/blog/b0f5c988dc54e42da8bbf763de6e6dd164a64bc0.jpg)
 
 The handwashing stations are essentially soap dispensers, water supplies, and hands free water dispensers. There are several ways to implement this, we chose to base ours on a foot operated pump drawing water from a tank to a spigot. This is an economical and robust solution but has the large drawback of being less accessible to wheelchair users and other people with limited leg mobility. The design objectives of our implementation are to provide water and soap with minimal maintenance and cleaning requirements, ruggedness when faced with careless or hostile users, and inexpensive parts to discourage theft. The pump is a rubber primer bulb under a pedal, the tank is a bucket or plastic barrel, and the spigot is PVC conduit. A wood and rebar frame anchors everything. A bottle of liquid soap is ziptied to the frame.
 

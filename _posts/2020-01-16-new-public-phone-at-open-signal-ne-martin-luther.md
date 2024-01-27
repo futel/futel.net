@@ -9,4 +9,4 @@ tumblr_url: https://futelco.tumblr.com/post/190301981914/new-public-phone-at-ope
 
 New public phone at Open Signal, NE Martin Luther King Jr Blvd south of Graham. This phone is funded in part by the Regional Arts & Culture Council.
 
-![](https://64.media.tumblr.com/ce10aeded9fa936eae94e19e9030cd4d/7b5a0021dbb5682c-27/s540x810/5a38d4daed1ecfe6344637d9691ec8aa4a177d9e.png)
+![](/images/blog/5a38d4daed1ecfe6344637d9691ec8aa4a177d9e.png)

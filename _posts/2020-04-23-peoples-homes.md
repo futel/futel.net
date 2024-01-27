@@ -11,4 +11,4 @@ Hear parts of “People’s Homes” on [YouTube](https://www.youtube.com/watch?
 
 'Hold the Phone’ is a partnership between Futel and Open Signal, funded in part by the Regional Arts & Culture Council.
 
-![](https://64.media.tumblr.com/4c72784f12909d746f3c55406dd122ec/de7c7e8f7a3680ae-6e/s540x810/37c3526b7e4cbab977b60fced8d960e6987dfed0.jpg)
+![](/images/blog/37c3526b7e4cbab977b60fced8d960e6987dfed0.jpg)

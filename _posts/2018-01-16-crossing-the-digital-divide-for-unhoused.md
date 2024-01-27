@@ -5,7 +5,7 @@ date: '2018-01-16T16:24:20-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/169790994864/crossing-the-digital-divide-for-unhoused
 ---
-![](https://64.media.tumblr.com/1b7bf3e346dca80651655fd5d9fcf830/tumblr_inline_p2obsa9qNC1sk9ezf_540.png)
+![](/images/blog/tumblr_inline_p2obsa9qNC1sk9ezf_540.png)
 
 The Village Coalition, Futel, and Freewire are thrilled to announce the completion of the first stage of our goal of providing internet and communication services to unhoused Portlanders with the provision of a 10Mbps Enterprise Internet service to the rest stop ​Right 2 Dream Too​. The rest stop, located at 900 N. Thunderbird Ave, is operated by houseless and formerly houseless people and provides refuge, resources, and community to hundreds of houseless people per year.
 

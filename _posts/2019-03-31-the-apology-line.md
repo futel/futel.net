@@ -7,7 +7,7 @@ tumblr_url: https://futelco.tumblr.com/post/183860316424/the-apology-line
 ---
 Allan Bridge ran The Apology Line from the mid-seventies until his death in 1995. The Apology Line is one of several inspirations for Futel.
 
-![](https://64.media.tumblr.com/401b6254ff9a78f7b6537d8f04c837bd/tumblr_inline_pp9nrx1zNJ1sk9ezf_540.jpg)
+![](/images/blog/tumblr_inline_pp9nrx1zNJ1sk9ezf_540.jpg)
 
 The Apology Line was essentially built around a telephone number and an answering machine. After hearing an introduction, callers could leave a recorded apology for whatever they had done wrong, or also hear a curated digest of best apologies, released weekly. The digest would often become interactive as callers left comments on the apologies, with some discussions spanning months. Bridge lived in Manhattan and would put up flyers to publicize it.
 
