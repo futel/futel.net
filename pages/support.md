@@ -8,17 +8,6 @@ image-alt: A hand-drawn bell logo with the caption 'public enemy'.
 
 Futel is made possible by volunteers and contributors, who we thank! Futel is a 501(c)(3) nonprofit organization, and contributions are tax deductible.
 
-Support us by donating with [PayPal or a credit card](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=futel%40pdxhs.org&item_name=Futel&currency_code=USD&source=url). Here's a button!
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_donations" />
-<input type="hidden" name="business" value="futel@pdxhs.org" />
-<input type="hidden" name="item_name" value="Futel" />
-<input type="hidden" name="currency_code" value="USD" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
-
 Support us by subscribing on [Patreon](http://patreon.com/futel).
 
 Support us by buying [T-shirts or buttons](https://shop.spreadshirt.com/futel/).
