@@ -9,8 +9,11 @@ The `gh-pages` branch for Futel.net is a [Jekyll](http://jekyllrb.com) site host
 
 ## Requirements
 
-You'll need the latest version of Jekyll installed on your machine to build and test locally. Requirements can be found on [the Jekyll installation page](https://jekyllrb.com/docs/installation/), but for most people on Linux/Unix/macOS installation should boil down to running `gem install jekyll jekyll-redirect-from` or `gem install --user-install jekyll jekyll-redirect-from` from the terminal.
+Install the latest version of Jekyll. On an Ubuntu box with ruby and gem installed:
 
+- gem install jekyll bundler jekyll-feed jekyll-gist jekyll-paginate
+
+More information at http://jekyllrb.com/docs/installation/ubuntu/
 
 ## Running the site locally and previewing changes
 
@@ -21,14 +24,13 @@ Documentation for the options running a Jekyll site locally can be found on the 
 - Open `http://localhost:4000` in your browser to preview the site
 - As you make changes the site should rebuild itself automatically.
 
-
 ## Making commits 
 
 To make a change to the site
 
 - Fork the repo: [https://github.com/futel/futel.net](https://github.com/futel/futel.net)
 - Checkout the `gh-pages` branch
-- Start Jekylll per the previous section to preview your changes in real-time and make your changes
+- Start Jekyll per the previous section to preview your changes in real-time and make your changes
 - When you're done with your changes create the commit and push it to your forked repo on GitHub
 - Go to the **Pull Requests** tab in your forked project click the **New pull request** button. Make sure that you're creating a pull request from your `gh-pages` branch and requesting to merge it into futel.net's `gh-pages` branch.
 - GitHub should tell you if it's possible to auto-merge. When it's done click **Create pull request** to submit  your proposed changes.
