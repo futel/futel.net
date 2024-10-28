@@ -9,8 +9,8 @@ The `gh-pages` branch for Futel.net is a [Jekyll](http://jekyllrb.com) site host
 
 ## Requirements
 
-Install the latest version of Jekyll. On an Ubuntu box with ruby and gem installed:
-
+- ubuntu or debian box
+- apt install make gcc g++ ruby ruby-dev ruby-rubygems
 - gem install jekyll bundler jekyll-feed jekyll-gist jekyll-paginate
 
 More information at http://jekyllrb.com/docs/installation/ubuntu/
