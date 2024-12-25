@@ -3,7 +3,7 @@ layout: post
 title: Death of the Payphone
 ---
 
-![](images/blog/PXL_20230612_024704662.jpg)
+![](/images/blog/PXL_20230612_024704662.jpg)
 
 Payphone continues it's secondary purpose of collecting and displaying stickers. They started creeping over the parts that previously needed to be kept clear, and now the layers will accrete until the whole things is a barely recognizable blob.
 
