@@ -38,7 +38,9 @@ Thanks to our public telephone hosts **G. Upshaw**, **xnor**, **Anonymous**, **S
 Thanks to **Anonymous** and **Rosie Howell** for voice content.
 
 <span style="white-space: nowrap;">
-Futel's 2025 operations are funded in part by the **[Multnomah County Cultural Coalition and the Oregon Cultural Trust](https://multcoculturalcoalition.org/)**. ![Logo of RACC.](/images/support-mccc-logo.jpg)
+Futel's 2025 operations are funded in part by the **[Multnomah County Cultural Coalition and the Oregon Cultural Trust](https://multcoculturalcoalition.org/)**.
+![Logo of MCCC.](/images/support-mccc-logo.jpg)
+![Logo of OCT.](/images/support-oct-logo.jpg)
 </span>
 
 <span style="white-space: nowrap;">
