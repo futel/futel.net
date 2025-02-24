@@ -37,11 +37,17 @@ Thanks to our public telephone hosts **G. Upshaw**, **xnor**, **Anonymous**, **S
 
 Thanks to **Anonymous** and **Rosie Howell** for voice content.
 
-Futel's 2020-2023 operations are funded in part by the **[Regional Arts and Culture Council](http://racc.org/)**.
+<span style="white-space: nowrap;">
+Futel's 2020-2023 operations are funded in part by the **[Regional Arts and Culture Council](http://racc.org/)**. ![Logo of RACC.](/images/support-racc-logo.png)
+</span>
 
-Futel's 2018-2022 operations are funded in part by **Nelson**.
+<span style="white-space: nowrap;">
+Futel's 2018-2022 operations are funded in part by **Nelson**. ![An image of badtz-maru, representing Nelson.](/images/support-nelson.png)
+</span>
 
-Futel's 2022 operations are funded in part by the **Social Justice Action Center**.
+<span style="white-space: nowrap;">
+Futel's 2022 operations are funded in part by the **Social Justice Action Center**. ![Logo of SJAC.](/images/support-sjac-logo.png)
+</span>
 
 Thanks to our funding contributors including Precipice Fund, Calligram Foundation, and The Andy Warhol Foundation for the Visual Arts, [Awesome Ann Arbor](http://a2awesome.org/), [Awesome Portland](http://awesomeportland.org/), the Twilio.org Impact Corps Program, and [ToorCamp](http://toorcamp.toorcon.net/).
 
