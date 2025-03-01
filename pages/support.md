@@ -44,7 +44,7 @@ Futel's 2025 operations are funded in part by the **[Multnomah County Cultural C
 </span>
 
 <span style="white-space: nowrap;">
-Futel's 2020-2023 operations are funded in part by the **[Regional Arts and Culture Council](http://racc.org/)**. ![Logo of RACC.](/images/support-racc-logo.png)
+Futel's 2020-2023 and 2025 operations are funded in part by the **[Regional Arts and Culture Council](http://racc.org/)**. ![Logo of RACC.](/images/support-racc-logo.png)
 </span>
 
 <span style="white-space: nowrap;">
