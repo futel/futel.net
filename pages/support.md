@@ -48,7 +48,7 @@ Futel's 2020-2023 and 2025 operations are funded in part by the **[Regional Arts
 </span>
 
 <span style="white-space: nowrap;">
-Futel's 2018-2022 operations are funded in part by **Nelson**. ![An image of badtz-maru, representing Nelson.](/images/support-nelson.png)
+Futel's 2018-2022 and 2025 operations are funded in part by **Nelson**. ![An image of badtz-maru, representing Nelson.](/images/support-nelson.png)
 </span>
 
 <span style="white-space: nowrap;">
