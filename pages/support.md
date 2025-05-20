@@ -33,7 +33,7 @@ Email <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dial 0 from
 
 ### Contributors
 
-Thanks to our public telephone hosts **G. Upshaw**, **xnor**, **Anonymous**, **Sou'Wester Lodge**, **Landline Creative**, **Saluthaus**, **Sebastian Noack**, **J. Mejía**, **tishbite**, **Anonymous**, **Microcosm Publishing**, **M. Hansen**, and **Ghost Mountain**. Thanks to our other telephone hosts **Right To Dream Too**, **Upright Brewing**, **Bottles and Cans**, and **Ground Score Association**.
+Thanks to our public telephone hosts **G. Upshaw**, **xnor**, **Anonymous**, **Sou'Wester Lodge**, **Landline Creative**, **Saluthaus**, **Sebastian Noack**, **J. Mejía**, **tishbite**, **Anonymous**, **Microcosm Publishing**, **M. Hansen**, **Ghost Mountain**, and **Street Roots**. Thanks to our other telephone hosts **Right To Dream Too**, **Upright Brewing**, **Bottles and Cans**, and **Ground Score Association**.
 
 Thanks to **Anonymous** and **Rosie Howell** for voice content.
 
@@ -51,11 +51,7 @@ Futel's 2020-2023 and 2025 operations are funded in part by the **[Regional Arts
 Futel's 2018-2022 and 2025 operations are funded in part by **Nelson**. ![An image of badtz-maru, representing Nelson.](/images/support-nelson.png)
 </span>
 
-<span style="white-space: nowrap;">
-Futel's 2022 operations are funded in part by the **Social Justice Action Center**. ![Logo of SJAC.](/images/support-sjac-logo.png)
-</span>
-
-Thanks to our funding contributors including Precipice Fund, Calligram Foundation, and The Andy Warhol Foundation for the Visual Arts, [Awesome Ann Arbor](http://a2awesome.org/), [Awesome Portland](http://awesomeportland.org/), the Twilio.org Impact Corps Program, and [ToorCamp](http://toorcamp.toorcon.net/).
+Thanks to our funding contributors including the Social Justice Action Center, Precipice Fund, Calligram Foundation, and The Andy Warhol Foundation for the Visual Arts, [Awesome Ann Arbor](http://a2awesome.org/), [Awesome Portland](http://awesomeportland.org/), the Twilio.org Impact Corps Program, and [ToorCamp](http://toorcamp.toorcon.net/).
 
 Thanks to the [Personal Telco Project](https://personaltelco.net), Hankins Hardware, [Free Geek Portland](http://www.freegeek.org/), and B. Davis for donating materials.
 
