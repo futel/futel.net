@@ -16,8 +16,9 @@ image-alt: 'A cartoon skeleton hand holding a phone handset extends from a grave
 [5](https://microcosmpublishing.com/catalog/zines/13070), 
 [6](https://microcosmpublishing.com/catalog/zines/28431), 
 [7](https://microcosmpublishing.com/catalog/zines/2861), 
-[8](https://microcosmpublishing.com/catalog/zines/4561), and
-[9](https://microcosmpublishing.com/catalog/zines/8419)
+[8](https://microcosmpublishing.com/catalog/zines/4561),
+[9](https://microcosmpublishing.com/catalog/zines/8419), and
+[10](https://microcosmpublishing.com/catalog/zines/36107)
 
 - The Wildcard Line features contributions by the users and operators of Futel and can be heard on [Soundcloud](https://soundcloud.com/user-450753077).
 
