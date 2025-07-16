@@ -51,7 +51,11 @@ Futel's 2020-2023 and 2025 operations are funded in part by the **[Regional Arts
 Futel's 2018-2022 and 2025 operations are funded in part by **Nelson**. ![An image of badtz-maru, representing Nelson.](/images/support-nelson.png)
 </span>
 
-Thanks to our funding contributors including the Social Justice Action Center, Precipice Fund, Calligram Foundation, and The Andy Warhol Foundation for the Visual Arts, [Awesome Ann Arbor](http://a2awesome.org/), [Awesome Portland](http://awesomeportland.org/), the Twilio.org Impact Corps Program, and [ToorCamp](http://toorcamp.toorcon.net/).
+<span style="white-space: nowrap;">
+Futel's 2025 operations are funded in part by **SE Uplift**.
+</span>
+
+Thanks to our funding contributors including our Patreon supporters, the Social Justice Action Center, Precipice Fund, Calligram Foundation, and The Andy Warhol Foundation for the Visual Arts, [Awesome Ann Arbor](http://a2awesome.org/), [Awesome Portland](http://awesomeportland.org/), the Twilio.org Impact Corps Program, and [ToorCamp](http://toorcamp.toorcon.net/).
 
 Thanks to the [Personal Telco Project](https://personaltelco.net), Hankins Hardware, [Free Geek Portland](http://www.freegeek.org/), and B. Davis for donating materials.
 
