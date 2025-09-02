@@ -11,7 +11,7 @@ Futel is a network of public social practice installations which provide radical
 ### Overview:
 - Over 10 years of continuous service, with over 10,000 free phone calls per year including emergency and social service access
 - Interactions with participatory creative spoken word works
-- 16 installations accessible at all hours from city sidewalks, 2 providing telephone service to houseless shelters and workplaces, 2 creative installations in food and drink establishments
+- 20 current installations accessible at all hours from city sidewalks, 2 providing telephone service to houseless shelters and workplaces, 2 creative installations in food and drink establishments
 - 7 exhibits at galleries and conferences, and 4 showcasing works by partnered artists
 - Partnerships and collaborations with Street Roots and Open Signal
 - Talks, presentations, printed and spoken media, media appearances, wages for creative projects, and a successful CS internship
@@ -40,6 +40,7 @@ Futel is a network of public social practice installations which provide radical
 - Sidewalk, W Burnside, Portland, May 2025 to present.
 - Sidewalk, SE 58th Ave, Portland, June 2025 to present.
 - Sidewalk, N Princeton Ave, Portland, July 2025 to present.
+- Sidewalk, 47th Ave S, Seattle, August 2025 to present.
 - Sidewalk, Hedron Hackerspace, SE Bush St, Portland, May 2022 to September 2022.
 - Sidewalk, SE Clinton Street, Portland, June 2014 to December 2021.
 - Sidewalk, Open Signal, NE Martin Luther King Jr Blvd, Portland, January 2020 to December 2021.
