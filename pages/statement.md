@@ -14,7 +14,8 @@ Futel is a network of public social practice installations which provide radical
 - 20 current installations accessible at all hours from city sidewalks, 2 providing telephone service to houseless shelters and workplaces, 2 creative installations in food and drink establishments
 - 7 exhibits at galleries and conferences, and 4 showcasing works by partnered artists
 - Partnerships and collaborations with Street Roots and Open Signal
-- Talks, presentations, printed and spoken media, media appearances, wages for creative projects, and a successful CS internship
+- Talks, presentations, printed and spoken media, media appearances
+- Wages for creative projects, mentorship of a successful computer science internship
 
 ### Installations:
 - Shack, Right To Dream Too, Portland, January 2015 to present.
@@ -37,10 +38,11 @@ Futel is a network of public social practice installations which provide radical
 - Sidewalk, SE Clinton St, Portland, Sept 2024 to present.
 - Sidewalk, 42nd Ave S, Seattle, Washington, Aug 2024 to present.
 - Sidewalk, NE Brazee, Portland, Oct 2024 to present.
-- Sidewalk, W Burnside, Portland, May 2025 to present.
+- Sidewalk, Street Roots, W Burnside, Portland, May 2025 to present.
 - Sidewalk, SE 58th Ave, Portland, June 2025 to present.
 - Sidewalk, N Princeton Ave, Portland, July 2025 to present.
-- Sidewalk, 47th Ave S, Seattle, August 2025 to present.
+- Sidewalk, 48th Ave S, Seattle, August 2025 to present.
+- Sidewalk, Martin Luther King Jr Way S, Seattle, October 2025 to present.
 - Sidewalk, Hedron Hackerspace, SE Bush St, Portland, May 2022 to September 2022.
 - Sidewalk, SE Clinton Street, Portland, June 2014 to December 2021.
 - Sidewalk, Open Signal, NE Martin Luther King Jr Blvd, Portland, January 2020 to December 2021.
@@ -48,12 +50,13 @@ Futel is a network of public social practice installations which provide radical
 - Sidewalk, PDX Hackerspace, N Interstate Avenue, Portland, February 2016 to July 2016.
 
 ### Exhibits:
+- The Old Town Crier, Street Roots, Portland, March-December 2025.
 - Speak To Assert Your Humanity, Teardown, Portland, June 2025.
 - Give Me Central 209, Teardown, Portland, June 2023.
 - Hold The Phone, Open Signal, Portland, April-November 2020.
 - Futel Remote Testing Facility, Virtual ToorCamp, June 2020.
 - Futel Interactive Installation, Teardown, Portland, May 2018.
-- Futel Interactive Installation, ToorCamp, Orcas Island, Washington, July 2016.
+- Futel Interactive Installation, ToorCamp, Doe Bay, Washington, July 2016.
 - Futel: Communication From Beyond The Veil, AFRU gallery, Portland, February 2016.
 - Futel Interactive Installation, ToorCamp, Neah Bay, Washington, July 2014.
 
