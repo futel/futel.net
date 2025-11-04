@@ -11,7 +11,7 @@ Futel is a network of public social practice installations which provide radical
 ### Overview:
 - Over 10 years of continuous service, with over 10,000 free phone calls per year including emergency and social service access
 - Interactions with participatory creative spoken word works
-- 20 current installations accessible at all hours from city sidewalks, 2 providing telephone service to houseless shelters and workplaces, 2 creative installations in food and drink establishments
+- 21 current installations accessible at all hours from city sidewalks, 2 providing telephone service to houseless shelters and workplaces, 2 creative installations in food and drink establishments
 - 7 exhibits at galleries and conferences, and 4 showcasing works by partnered artists
 - Partnerships and collaborations with Street Roots and Open Signal
 - Talks, presentations, printed and spoken media, media appearances
