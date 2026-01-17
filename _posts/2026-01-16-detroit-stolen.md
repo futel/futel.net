@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Detroit phone stolen!
+title: Detroit Phone Stolen!
 ---
 
 ![](/images/blog/detroit0.jpeg)

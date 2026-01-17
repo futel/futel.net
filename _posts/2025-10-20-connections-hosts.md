@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LFFC phone hosts in Seattle
+title: LFFC Phone Hosts in Seattle
 tags: []
 ---
 

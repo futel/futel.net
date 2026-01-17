@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How do I check voicemail?
+title: How Do I Check Voicemail?
 ---
 
 ![](/images/blog/checkvoicemail.jpg)
