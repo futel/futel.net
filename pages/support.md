@@ -52,7 +52,7 @@ Futel's 2018-2022 and 2025 operations are funded in part by **Nelson**. ![An ima
 </span>
 
 <span style="white-space: nowrap;">
-Futel's 2025 operations are funded in part by **SE Uplift**.
+Futel's 2025 operations are funded in part by **SE Uplift**. ![Logo of SE Uplift.](/images/SEUL_logo_blue.png)
 </span>
 
 <span style="white-space: nowrap;">
