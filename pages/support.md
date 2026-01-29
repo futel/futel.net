@@ -33,7 +33,7 @@ Email <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dial 0 from
 
 ### Contributors
 
-Thanks to our public telephone hosts **G. Upshaw**, **xnor**, **Anonymous**, **Sou'Wester Lodge**, **Landline Creative**, **Saluthaus**, **Sebastian Noack**, **J. Mejía**, **tishbite**, **Anonymous**, **Microcosm Publishing**, **M. Hansen**, **Ghost Mountain**, and **Street Roots**. Thanks to our other telephone hosts **Right To Dream Too**, **Upright Brewing**, **Bottles and Cans**, and **Ground Score Association**.
+Thanks to our public telephone hosts **G. Upshaw**, **xnor**, **Anonymous**, **Sou'Wester Lodge**, **Landline Creative**, **Saluthaus**, **Sebastian Noack**, **J. Mejía**, **tishbite**, **Anonymous**, **Microcosm Publishing**, **M. Hansen**, **Ghost Mountain**, and **Street Roots**. Thanks to our other telephone hosts **Upright Brewing**, **Bottles and Cans**, and **Sunnyside Shower Project**.
 
 Thanks to **Anonymous** and **Rosie Howell** for voice content.
 

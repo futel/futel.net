@@ -18,7 +18,6 @@ Futel is a network of public social practice installations which provide radical
 - Wages for creative projects, mentorship of a successful computer science internship
 
 ### Installations:
-- Shack, Right To Dream Too, Portland, January 2015 to present.
 - Sidewalk, NE Ainsworth Street, Portland, February 2016 to present.
 - Sidewalk, SE Taylor Street, Portland, November 2016 to present.
 - Alley, NE Killingsworth Street, Portland, January 2018 to present.
@@ -42,7 +41,9 @@ Futel is a network of public social practice installations which provide radical
 - Sidewalk, N Princeton Ave, Portland, July 2025 to present.
 - Sidewalk, 48th Ave S, Seattle, August 2025 to present.
 - Sidewalk, Martin Luther King Jr Way S, Seattle, October 2025 to present.
+- Facility, Sunnyside Shower Project, Portland, January 2026 to present.
 - Warehouse, Ground Score, Portland, May 2024 to Feb 2025.
+- Shack, Right To Dream Too, Portland, January 2015 to February 2025.
 - Sidewalk, Hedron Hackerspace, SE Bush St, Portland, May 2022 to September 2022.
 - Sidewalk, SE Clinton Street, Portland, June 2014 to December 2021.
 - Sidewalk, Open Signal, NE Martin Luther King Jr Blvd, Portland, January 2020 to December 2021.
