@@ -38,21 +38,21 @@ Thanks to our public telephone hosts **G. Upshaw**, **xnor**, **Anonymous**, **S
 Thanks to **Anonymous** and **Rosie Howell** for voice content.
 
 <span style="white-space: nowrap;">
+Futel's 2020-2023, 2025, and 2026 operations are funded in part by the **[Regional Arts and Culture Council](http://racc.org/)** and the Arts Access Fund. ![Logo of RACC.](/images/support-racc-logo.png) ![Logo of AAF.](/images/support-aaf-logo.png)
+</span>
+
+<span style="white-space: nowrap;">
+Futel's 2025 and 2026 operations are funded in part by **SE Uplift**. ![Logo of SE Uplift.](/images/SEUL_logo_blue.png)
+</span>
+
+<span style="white-space: nowrap;">
 Futel's 2025 operations are funded in part by the **[Multnomah County Cultural Coalition and the Oregon Cultural Trust](https://multcoculturalcoalition.org/)**.
 ![Logo of MCCC.](/images/support-mccc-logo.jpg)
 ![Logo of OCT.](/images/support-oct-logo.jpg)
 </span>
 
 <span style="white-space: nowrap;">
-Futel's 2020-2023 and 2025 operations are funded in part by the **[Regional Arts and Culture Council](http://racc.org/)**. ![Logo of RACC.](/images/support-racc-logo.png)
-</span>
-
-<span style="white-space: nowrap;">
 Futel's 2018-2022 and 2025 operations are funded in part by **Nelson**. ![An image of badtz-maru, representing Nelson.](/images/support-nelson.png)
-</span>
-
-<span style="white-space: nowrap;">
-Futel's 2025 operations are funded in part by **SE Uplift**. ![Logo of SE Uplift.](/images/SEUL_logo_blue.png)
 </span>
 
 <span style="white-space: nowrap;">
