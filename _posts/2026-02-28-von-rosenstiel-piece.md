@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mark von Rosenstiel
+title: Untitled
 ---
 
 ![](/images/blog/von_rosenstiel_chicken.jpg)
