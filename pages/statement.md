@@ -25,7 +25,6 @@ Futel is a network of public social practice installations which provide radical
 - Sidewalk, NE Killingsworth Street, Portland, December 2018 to present.
 - Parking lot, Sou'Wester Lodge, Seaview, Washington, March 2019 to present.
 - Sidewalk, NE 8th Ave, Portland, April 2019 to present.
-- Bar, Upright Brewing, N Broadway, Portland, July 2019 to present.
 - Sidewalk, 23rd Street, Detroit, Michigan, November 2019 to present.
 - Sidewalk, N Central St, Portland, October 2020 to present.
 - Sidewalk, N Saratoga St, Portland, September 2021 to present.
@@ -42,7 +41,9 @@ Futel is a network of public social practice installations which provide radical
 - Sidewalk, 48th Ave S, Seattle, August 2025 to present.
 - Sidewalk, Martin Luther King Jr Way S, Seattle, October 2025 to present.
 - Facility, Sunnyside Shower Project, Portland, January 2026 to present.
-- Warehouse, Ground Score, Portland, May 2024 to Feb 2025.
+- Sidewalk, Mother Foucault's, SE Grand Ave, April 2026 to present.
+- Bar, Upright Brewing, N Broadway, Portland, July 2019 to October 2025.
+- Warehouse, Ground Score, Portland, May 2024 to February 2025.
 - Shack, Right To Dream Too, Portland, January 2015 to February 2025.
 - Sidewalk, Hedron Hackerspace, SE Bush St, Portland, May 2022 to September 2022.
 - Sidewalk, SE Clinton Street, Portland, June 2014 to December 2021.
@@ -108,6 +109,8 @@ Futel is a network of public social practice installations which provide radical
 - Party Line #1, Microcosm Publishing, March 2016.
  
 ### Major Grants:
+- Multnomah County Cultural Coalition Community Cultural Participation Grant, January 2026.
+- Regional Arts and Culture Council Arts Access Fund Grant, January 2026.
 - SE Uplift Community Small Grant, January 2026.
 - SE Uplift Community Small Grant, March 2025.
 - Regional Arts and Culture Council Portland Arts Project Grant, February 2025.
