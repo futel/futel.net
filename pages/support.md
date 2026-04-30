@@ -26,14 +26,14 @@ Email <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dial 0 from
 - Engineering and Operations, Karl Anderson, tishbite, breedx, Russell Senior.
 - Hygiene and Sanitation, M. Lippincott.
 - Operators, Karl Anderson, tishbite, xnor, M. Lippincott, A. Frankenstein, Anonymous, M. Hansen, Anonymous, Anonymous.
-- Physical Plant, Karl Anderson, breedx, tishbite, Ry4an B, M. Lippincott, Russell Senior, Sebastian Noack, J. Mejía.
+- Physical Plant, Karl Anderson, breedx, tishbite, Ry4an B., M. Lippincott, Russell Senior, Sebastian Noack, J. Mejía.
 - Production, breedx, xnor, J. Mejía, B. Richardson.
 - Design, D. Wager, M. Lippincott.
 - Art, D. Wager, B. Thunderblood, Fiona Barnacle, Lance E. Pants.
 
 ### Contributors
 
-Thanks to our public telephone hosts **G. Upshaw**, **xnor**, **Anonymous**, **Sou'Wester Lodge**, **Landline Creative**, **Saluthaus**, **Sebastian Noack**, **J. Mejía**, **tishbite**, **Anonymous**, **Microcosm Publishing**, **M. Hansen**, **Ghost Mountain**, and **Street Roots**. Thanks to our other telephone hosts **Upright Brewing**, **Bottles and Cans**, and **Sunnyside Shower Project**.
+Thanks to our public telephone hosts **G. Upshaw**, **xnor**, **Anonymous**, **Sou'Wester Lodge**, **Landline Creative**, **Saluthaus**, **Sebastian Noack**, **J. Mejía**, **tishbite**, **Anonymous**, **Microcosm Publishing**, **M. Hansen**, **Ghost Mountain**, **Street Roots**, **USSJoin**, and **Mother Foucault's**. Thanks to our other telephone hosts **Sunnyside Shower Project**.
 
 Thanks to **Anonymous** and **Rosie Howell** for voice content.
 
