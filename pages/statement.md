@@ -42,6 +42,7 @@ Futel is a network of public social practice installations which provide radical
 - Sidewalk, Martin Luther King Jr Way S, Seattle, October 2025 to present.
 - Facility, Sunnyside Shower Project, Portland, January 2026 to present.
 - Sidewalk, Mother Foucault's, SE Grand Ave, April 2026 to present.
+- Sidewalk, Cafe Red, Martin Luther King Jr Way S, Seattle, April 2026 to present.
 - Bar, Upright Brewing, N Broadway, Portland, July 2019 to October 2025.
 - Warehouse, Ground Score, Portland, May 2024 to February 2025.
 - Shack, Right To Dream Too, Portland, January 2015 to February 2025.
