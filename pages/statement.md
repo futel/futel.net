@@ -53,15 +53,16 @@ Futel is a network of public social practice installations which provide radical
 - Sidewalk, PDX Hackerspace, N Interstate Avenue, Portland, February 2016 to July 2016.
 
 ### Exhibits:
-- The Old Town Crier, Street Roots, Portland, March-December 2025.
-- Speak To Assert Your Humanity, Teardown, Portland, June 2025.
-- Give Me Central 209, Teardown, Portland, June 2023.
-- Hold The Phone, Open Signal, Portland, April-November 2020.
-- Futel Remote Testing Facility, Virtual ToorCamp, June 2020.
-- Futel Interactive Installation, Teardown, Portland, May 2018.
-- Futel Interactive Installation, ToorCamp, Doe Bay, Washington, July 2016.
+- Words On A Wire, Mother Foucault's sidewalk, Portland, July-December 2026.
+- The Old Town Crier, Street Roots sidewalk, Portland, March-December 2025.
+- Speak To Assert Your Humanity, Teardown conference, Portland, June 2025.
+- Give Me Central 209, Teardown conference, Portland, June 2023.
+- Hold The Phone, Open Signal sidewalk, Portland, April-November 2020.
+- Futel Remote Testing Facility, Virtual ToorCamp conference, June 2020.
+- Futel Interactive Installation, Teardown conference, Portland, May 2018.
+- Futel Interactive Installation, ToorCamp conference, Doe Bay, Washington, July 2016.
 - Futel: Communication From Beyond The Veil, AFRU gallery, Portland, February 2016.
-- Futel Interactive Installation, ToorCamp, Neah Bay, Washington, July 2014.
+- Futel Interactive Installation, ToorCamp conference, Neah Bay, Washington, July 2014.
 
 ### Exhibit Support:
 - Felicific Calculus by Eric Kunsman, April 2021.
@@ -111,7 +112,7 @@ Futel is a network of public social practice installations which provide radical
  
 ### Major Grants:
 - Multnomah County Cultural Coalition Community Cultural Participation Grant, January 2026.
-- Regional Arts and Culture Council Arts Access Fund Grant, January 2026.
+- Regional Arts and Culture Council Portland Arts Project Grant, January 2026.
 - SE Uplift Community Small Grant, January 2026.
 - SE Uplift Community Small Grant, March 2025.
 - Regional Arts and Culture Council Portland Arts Project Grant, February 2025.
