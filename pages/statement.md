@@ -53,7 +53,7 @@ Futel is a network of public social practice installations which provide radical
 - Sidewalk, PDX Hackerspace, N Interstate Avenue, Portland, February 2016 to July 2016.
 
 ### Exhibits:
-- Installation, Portland ZooNights, Oregon Zoo, Portland, August 5 2026.
+- Installation, Wild Wednesdays, Oregon Zoo, Portland, August 5 2026.
 - Words On A Wire, Mother Foucault's sidewalk, Portland, July-December 2026.
 - The Old Town Crier, Street Roots sidewalk, Portland, March-December 2025.
 - Speak To Assert Your Humanity, Teardown conference, Portland, June 2025.
