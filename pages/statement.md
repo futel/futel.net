@@ -53,6 +53,7 @@ Futel is a network of public social practice installations which provide radical
 - Sidewalk, PDX Hackerspace, N Interstate Avenue, Portland, February 2016 to July 2016.
 
 ### Exhibits:
+- Installation, Portland ZooNights, Oregon Zoo, Portland, August 5 2026.
 - Words On A Wire, Mother Foucault's sidewalk, Portland, July-December 2026.
 - The Old Town Crier, Street Roots sidewalk, Portland, March-December 2025.
 - Speak To Assert Your Humanity, Teardown conference, Portland, June 2025.
@@ -99,6 +100,7 @@ Futel is a network of public social practice installations which provide radical
 - Wildcard Line Episode 1, SoundCloud, November 2016.
  
 ### Print Publications:
+- Party Line #11, Microcosm Publishing, July 2026.
 - Party Line #10, Microcosm Publishing, June 2025.
 - Party Line #9, Microcosm Publishing, March 2024.
 - Party Line #8, Microcosm Publishing, May 2023.
