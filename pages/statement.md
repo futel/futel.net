@@ -113,6 +113,7 @@ Futel is a network of public social practice installations which provide radical
 - Party Line #1, Microcosm Publishing, March 2016.
  
 ### Major Grants:
+- Detroit Blight To Beauty, June 2026.
 - Multnomah County Cultural Coalition Community Cultural Participation Grant, January 2026.
 - Regional Arts and Culture Council Portland Arts Project Grant, January 2026.
 - SE Uplift Community Small Grant, January 2026.
