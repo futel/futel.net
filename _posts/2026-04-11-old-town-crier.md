@@ -11,4 +11,4 @@ This has been an excellent phone location and a great project to work on. Over h
 
 Hear the "Old Town Crier" from the Street Roots phone, or find it in the creative sections of the menus of the other Futel phones.
 
-![](/images/blog/PXL_20250503_232231684.jpg)
+[![](/images/blog/PXL_20250503_232231684.jpg)](/images/blog/PXL_20250503_232231684.jpg)

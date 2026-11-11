@@ -5,7 +5,7 @@ date: '2023-04-23T10:11:55-07:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/715411858432180224/hostile-telecom-company-vandalizes-futel
 ---
- ![](/images/blog/46d9d54d7e2144c523432ec35b3063995e6a6de8.jpg)  
+ [![](/images/blog/46d9d54d7e2144c523432ec35b3063995e6a6de8.jpg)](/images/blog/46d9d54d7e2144c523432ec35b3063995e6a6de8.jpg)  
 
 # HOSTILE TELECOM COMPANY VANDALIZES FUTEL INSTALLATION
 

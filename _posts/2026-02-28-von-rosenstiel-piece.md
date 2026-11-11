@@ -3,7 +3,7 @@ layout: post
 title: Untitled
 ---
 
-![](/images/blog/von_rosenstiel_chicken.jpg)
+[![](/images/blog/von_rosenstiel_chicken.jpg)](/images/blog/von_rosenstiel_chicken.jpg)
 
 I didn’t see you there with barnacles scattered on my face and teeth made of this
 keypad. When I was in grade school, everyone would call me ZeroToNine and I

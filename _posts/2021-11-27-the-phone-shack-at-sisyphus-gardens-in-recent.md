@@ -5,7 +5,7 @@ date: '2021-11-27T21:35:18-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/669072981325217792/the-phone-shack-at-sisyphus-gardens-in-recent
 ---
- ![](/images/blog/46cc0510e854cb352ba363f41eb4ba16526aee44.jpg)  
+ [![](/images/blog/46cc0510e854cb352ba363f41eb4ba16526aee44.jpg)](/images/blog/46cc0510e854cb352ba363f41eb4ba16526aee44.jpg)  
 
 The phone shack at Sisyphus Gardens. In recent years they’ve added another extension in their kitchen, but your calls will still ring here. Also, there is more than one Druid of Sisyphus Gardens staffing the line these days. Callers cannot choose which one they will get. They are all qualified to provide wisdom. Also, lucky Futel phone users who visit after their rounds in town may find tokens and artwork they have left behind.
 

@@ -5,7 +5,7 @@ date: '2020-12-24T23:25:55-08:00'
 tags: []
 tumblr_url: https://futelco.tumblr.com/post/638458166267510785/handwashing-station-construction-notes
 ---
-![](/images/blog/3e8cb76da1eeed82af46aed8f17d533422183303.jpg)
+[![](/images/blog/3e8cb76da1eeed82af46aed8f17d533422183303.jpg)](/images/blog/3e8cb76da1eeed82af46aed8f17d533422183303.jpg)
 
 ## Manifest
 
