@@ -5,7 +5,7 @@ permalink: /map/
 
 ---
 
-![Several maps show the geographic location of Futel phone installations.](/images/servicemap.png)
+[![Several maps show the geographic location of Futel phone installations.](/images/servicemap.png)](/images/servicemap.png)
 
 [Interactive web map](https://umap.openstreetmap.fr/en/map/futel-service-map_551231)
 
