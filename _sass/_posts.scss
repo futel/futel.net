@@ -20,6 +20,12 @@
   }
 }
 
+// Divider between posts listed together on the blog page
+.posts .post + .post {
+  border-top: 1px solid $gray-light;
+  padding-top: 2em;
+}
+
 // // Blog post or page title
 // .page-title,
 // .post-title {

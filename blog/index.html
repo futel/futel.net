@@ -4,22 +4,46 @@ layout: default
 title: Blog
 ---
 
+{% comment %}
+Pagination is one post per page, so each page shows the 5 posts starting
+at its own post. "Older" jumps to the page starting after the last post shown,
+"Newer" to the page ending just before the first post shown.
+{% endcomment %}
+{% assign posts_per_page = 5 %}
+{% assign post_offset = paginator.page | minus: 1 %}
+{% assign older_page = paginator.page | plus: posts_per_page %}
+{% assign newer_page = paginator.page | minus: posts_per_page %}
+{% if older_page <= paginator.total_pages %}
+  {% assign older_path = site.paginate_path | replace: ':num', older_page | relative_url %}
+{% endif %}
+{% if paginator.page > 1 %}
+  {% if newer_page > 1 %}
+    {% assign newer_path = site.paginate_path | replace: ':num', newer_page | relative_url %}
+  {% else %}
+    {% assign newer_path = "/blog/" | relative_url %}
+  {% endif %}
+{% endif %}
+
+{% capture pagination %}
 <div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | relative_url }}">Older</a>
+  {% if older_path %}
+    <a class="pagination-item older" href="{{ older_path }}">Older</a>
   {% else %}
     <span class="pagination-item older">Older</span>
   {% endif %}
   <a class="pagination-item newer" href="/blog/archive">Archive</a>
-  {% if paginator.previous_page %}
-    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: relative_url }}">Newer</a>
+  {% if newer_path %}
+    <a class="pagination-item newer" href="{{ newer_path }}">Newer</a>
   {% else %}
     <span class="pagination-item newer">Newer</span>
-    {% endif %}
+  {% endif %}
 </div>
+{% endcapture %}
+
+{{ pagination }}
 
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% for post in site.posts offset: post_offset limit: posts_per_page %}
   <article class="post">
     <h2 class="post-title">
       {{ post.title | default: "Untitled" }}
@@ -32,16 +56,4 @@ title: Blog
   {% endfor %}
 </div>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | relative_url }}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  <a class="pagination-item newer" href="/blog/archive">Archive</a>
-  {% if paginator.previous_page %}
-    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: relative_url }}">Newer</a>
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-    {% endif %}
-</div>
+{{ pagination }}
