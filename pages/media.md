@@ -8,7 +8,7 @@ image-alt: 'A cartoon skeleton hand holding a phone handset extends from a grave
 
 # Publications
 
-- The official print organ of Futel is Party Line, which is distributed by Microcosm, see issues 
+- The official print organ of Futel is Party Line, which is distributed by Microcosm Publishing, see issues 
 [1](https://microcosmpublishing.com/catalog/zines/8068), 
 [2](https://microcosmpublishing.com/catalog/zines/8067), 
 [3](https://microcosmpublishing.com/catalog/zines/9975), 
@@ -17,8 +17,9 @@ image-alt: 'A cartoon skeleton hand holding a phone handset extends from a grave
 [6](https://microcosmpublishing.com/catalog/zines/28431), 
 [7](https://microcosmpublishing.com/catalog/zines/2861), 
 [8](https://microcosmpublishing.com/catalog/zines/4561),
-[9](https://microcosmpublishing.com/catalog/zines/8419), and
-[10](https://microcosmpublishing.com/catalog/zines/36107)
+[9](https://microcosmpublishing.com/catalog/zines/8419),
+[10](https://microcosmpublishing.com/catalog/zines/36107), and
+[11](https://microcosmpublishing.com/catalog/zines/36979).
 
 - The Wildcard Line features contributions by the users and operators of Futel and can be heard on [Soundcloud](https://soundcloud.com/user-450753077).
 
